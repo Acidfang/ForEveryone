@@ -1,7 +1,9 @@
 # For Everyone
 
 A shareable chronology of Acidfang's endeavours and the recurring methodology
-behind them: map, model, build, test, and publish.
+behind them: observe, map, model, build, test, and publish. The flagship
+Sym-PLE-Fied case study demonstrates the ability to infer a mechanism from
+factory-floor behaviour and turn it into a durable operating system.
 
 The site is deliberately dependency-free and deploys directly to GitHub Pages.
 

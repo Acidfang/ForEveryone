@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="A chronology of Acidfang's projects and a methodology for turning open questions into testable, shareable systems.">
+  <meta name="description" content="Evidence of Joe Rattanong's ability to recognise hidden mechanisms and turn them into durable working systems.">
   <meta property="og:title" content="For Everyone — A method for working in public">
   <meta property="og:description" content="Map the problem. Model the meaning. Build the tool. Test the edges. Publish the evidence.">
   <meta name="theme-color" content="#f3f0e8">
@@ -19,6 +19,7 @@
     </a>
     <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav">Menu</button>
     <nav id="site-nav" aria-label="Main navigation">
+      <a href="#mechanism">Flagship proof</a>
       <a href="#method">Method</a>
       <a href="#chronology">Endeavours</a>
       <a href="#evidence">Evidence</a>
@@ -29,8 +30,8 @@
   <main id="main">
     <section class="hero" id="top">
       <div class="hero-copy">
-        <h1>A method for turning messy questions into working systems.</h1>
-        <p>I follow the thread from first principles to usable tools—mapping the problem, building the interface, testing the edges, and publishing what survives.</p>
+        <h1>I recognise mechanisms—then make them work.</h1>
+        <p>Where others see separate tasks, I see the relationship that makes them one system. I reconstruct that mechanism from observable differences, encode it, test it, and publish the evidence.</p>
         <div class="hero-actions">
           <a class="button" href="#chronology">Explore the chronology <span aria-hidden="true">↓</span></a>
           <a class="text-link" href="https://github.com/Acidfang" target="_blank" rel="noreferrer">View on GitHub ↗</a>
@@ -51,8 +52,71 @@
     </section>
 
     <section class="principle-strip" aria-label="Core principle">
-      <p>Not a highlight reel.</p>
-      <p>A visible chain of decisions, artifacts, limits, and working results.</p>
+      <p>Capability does not depend on approval.</p>
+      <p>Source · operation · duration · surviving dependency</p>
+    </section>
+
+    <section class="mechanism-case section" id="mechanism">
+      <div class="case-heading">
+        <p class="section-number">00 / Flagship proof</p>
+        <div>
+          <p class="case-kicker">Manufacturing / production systems / prepress</p>
+          <h2>Sym-PLE-Fied</h2>
+          <p class="case-lede">A factory-floor mechanism reconstructed as software—by a press operator who was never given a software specification.</p>
+        </div>
+      </div>
+
+      <div class="case-flow" aria-label="The production mechanism recognised and automated">
+        <span>Production</span><i>→</i><span>Measurement</span><i>→</i><span>Calculation</span><i>→</i><span>Verification</span><i>→</i><span>Identification</span><i>→</i><span>ERP entry</span><i>→</i><span>Next run</span>
+      </div>
+
+      <div class="case-grid">
+        <article class="case-problem">
+          <p class="case-label">The observed constraint</p>
+          <h3>Paperwork was machine downtime.</h3>
+          <p>Operators wrote up each roll, prepared tickets, performed and rechecked calculations, reconciled material, and entered the same facts into separate systems. A roll could leave a press about every 15 minutes. Job totalisation could hold a machine stationary for up to 45 minutes.</p>
+          <dl class="impact-math">
+            <div><dt>Machine existence cost</dt><dd>$450 / hour</dd></div>
+            <div><dt>Cost per stopped minute</dt><dd>$7.50</dd></div>
+            <div><dt>45-minute exposure</dt><dd>$337.50 / job</dd></div>
+          </dl>
+        </article>
+
+        <article class="case-system">
+          <p class="case-label">The mechanism made executable</p>
+          <h3>Not forms. One connected operating system.</h3>
+          <ul>
+            <li>Roll-level production capture and ticket generation</li>
+            <li>Material, KG/KM, runtime, downtime and rate calculations</li>
+            <li>Issued, produced, returned, rejected and scrap reconciliation</li>
+            <li>Scale communication, reports and ERP-interface automation</li>
+            <li>Spatial prepress plate storage, search and retrieval</li>
+          </ul>
+        </article>
+      </div>
+
+      <div class="case-evidence">
+        <article>
+          <span>Inspectable source</span>
+          <strong>94 VB files</strong>
+          <p>The public repository contains about 21,000 lines outside generated form-designer and dataset code.</p>
+        </article>
+        <article>
+          <span>Firsthand operating history</span>
+          <strong>~16 years</strong>
+          <p>Machine-facing production use continued until June 2026.</p>
+        </article>
+        <article>
+          <span>Surviving dependency</span>
+          <strong>Still in use</strong>
+          <p>Prepress continues to use the plate directory linking jobs, plates and physical locations.</p>
+        </article>
+      </div>
+
+      <div class="case-boundary">
+        <p><strong>Evidence boundary:</strong> implementation claims are independently inspectable in the public source. Dates, timings, costs and present operational use are Joe Rattanong's firsthand account unless separately corroborated. No endorsement from Sealed Air is claimed.</p>
+        <a class="button" href="https://github.com/Acidfang/Sym-PLE-Fied" target="_blank" rel="noreferrer">Inspect the source <span aria-hidden="true">↗</span></a>
+      </div>
     </section>
 
     <section class="chronology section" id="chronology">
@@ -150,6 +214,16 @@
         <h2>Different questions.<br>The same insistence on traceability.</h2>
       </div>
       <div class="project-list">
+        <article class="project">
+          <div class="project-meta"><span>Manufacturing / mechanisms</span><span>Operational system</span></div>
+          <h3>Sym-PLE-Fied</h3>
+          <p>A production mechanism inferred from factory-floor behaviour and encoded across calculation, verification, documentation, hardware, ERP and physical plate storage.</p>
+          <ul aria-label="Project principles"><li>Mechanism recognition</li><li>Physical + digital system</li><li>Long-lived utility</li></ul>
+          <div class="project-links">
+            <a href="#mechanism">Read the case study ↑</a>
+            <a href="https://github.com/Acidfang/Sym-PLE-Fied" target="_blank" rel="noreferrer">Source ↗</a>
+          </div>
+        </article>
         <article class="project">
           <div class="project-meta"><span>Physics / existence</span><span>Public modeller</span></div>
           <h3>Everything From Nothing</h3>
