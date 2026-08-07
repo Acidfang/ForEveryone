@@ -53,6 +53,17 @@ nav a:hover, nav a:focus-visible { border-color: var(--ink); }
 .section-intro > p:last-child { grid-column: 2; max-width: 670px; color: var(--muted); font-size: 1.05rem; }
 .section-intro.compact h2 { grid-column: 2; }
 
+.field-notes { background: #e5e2d8; }
+.field-notes-intro { margin-bottom: 4.5rem; }
+.field-note-list { border-top: 1px solid #aaa79e; }
+.field-note { display: grid; grid-template-columns: .7fr 1.8fr 1fr; gap: 2rem; padding: 2.6rem 0; border-bottom: 1px solid #aaa79e; }
+.field-note-date { margin: 0; color: var(--blue); font-size: .7rem; text-transform: uppercase; letter-spacing: .1em; }
+.field-note h3 { margin: 0 0 1rem; font: 400 clamp(2rem, 3.5vw, 4rem)/.95 var(--serif); letter-spacing: -.045em; }
+.field-note > div > p { margin: 0; max-width: 640px; color: #60615c; }
+.field-note-proof { align-self: center; padding-left: 1.25rem; border-left: 1px solid #aaa79e; }
+.field-note-proof span { display: block; margin-bottom: .65rem; color: var(--coral); font-size: .66rem; text-transform: uppercase; letter-spacing: .1em; }
+.field-note-proof p { font: italic 1rem/1.45 var(--serif); }
+
 .timeline { position: relative; max-width: 1220px; margin-left: auto; }
 .timeline-rail { position: absolute; top: 0; bottom: 0; left: 39px; width: 1px; background: var(--rule); }
 .timeline-rail span { display: block; width: 3px; margin-left: -1px; height: var(--progress, 5%); background: var(--blue); transition: height .15s linear; }
@@ -108,6 +119,8 @@ footer { padding: 2rem clamp(1.25rem, 4vw, 4.5rem); display: flex; justify-conte
   .hero-diagram { width: min(100%, 600px); }
   .section-intro, .evidence-heading { grid-template-columns: 1fr; }
   .section-intro h2, .section-intro > p:last-child, .section-intro.compact h2, .evidence-heading h2 { grid-column: 1; }
+  .field-note { grid-template-columns: 1fr 2fr; }
+  .field-note-proof { grid-column: 2; }
   .timeline-step { grid-template-columns: 64px 1fr; }
   .step-output { grid-column: 2; }
   .timeline-rail { left: 31px; }
@@ -133,6 +146,8 @@ footer { padding: 2rem clamp(1.25rem, 4vw, 4.5rem); display: flex; justify-conte
   .hero-diagram { padding-top: 1rem; }
   .principle-strip { flex-direction: column; gap: .3rem; }
   .section-intro { margin-bottom: 3.5rem; }
+  .field-note { grid-template-columns: 1fr; gap: 1rem; }
+  .field-note-proof { grid-column: 1; border-left: 0; border-top: 1px solid #aaa79e; padding: 1.25rem 0 0; }
   .timeline-step { grid-template-columns: 50px 1fr; gap: 1rem; }
   .timeline-rail { left: 24px; }
   .step-index { width: 38px; height: 38px; }
