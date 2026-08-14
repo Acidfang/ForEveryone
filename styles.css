@@ -28,6 +28,7 @@ nav a:hover, nav a:focus-visible { border-color: var(--ink); }
 .menu-toggle { display: none; background: none; border: 0; font: inherit; }
 
 .hero { min-height: calc(100vh - 78px); padding: clamp(4rem, 9vw, 9rem) clamp(1.25rem, 4vw, 4.5rem) 4rem; display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(320px, .85fr); gap: clamp(3rem, 8vw, 9rem); align-items: center; }
+.hero-copy { min-width: 0; }
 .hero h1 { font: 400 clamp(3.4rem, 7.4vw, 7.9rem)/.88 var(--serif); letter-spacing: -.065em; max-width: 950px; margin: 0; }
 .hero-copy > p { max-width: 670px; color: #4f504c; font-size: clamp(1.05rem, 1.45vw, 1.3rem); margin: 2.3rem 0; }
 .hero-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 1.5rem; }
