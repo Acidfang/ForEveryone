@@ -1,0 +1,1739 @@
+{
+  "snapshotState": "scripted-held",
+  "createdAt": "2026-08-23T00:25:27.4098538+12:00",
+  "sourceRoot": "crackheadverse/bible",
+  "heldManuscripts": 340,
+  "files": 346,
+  "entries": [
+    {
+      "path": "book-ledger.jsonl",
+      "bytes": 403871,
+      "sha256": "649362efcd2fe08e8a433d72dea53ee276df26acae435b6aa8533e854cbe8db9"
+    },
+    {
+      "path": "character-ledger.jsonl",
+      "bytes": 845594,
+      "sha256": "4f38e1b4bc7e520483b2ac64a18770e45c514e5b164dd1d4bfcf8c363b8207ac"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2371,
+      "sha256": "dad4224a42b098f0791100300ef31b25408f62a99f35c2024ca184521a41b689"
+    },
+    {
+      "path": "source-inventory.json",
+      "bytes": 180896,
+      "sha256": "203bdff6937703948deef716eac670f5ba4512523344c6cb741eb2ca1bedaaa0"
+    },
+    {
+      "path": "TRANSLATION-CONTRACT.md",
+      "bytes": 3812,
+      "sha256": "d976dff8c1bb0edec281646633a910f1d5ce73233109c849962b34fa0aec09c7"
+    },
+    {
+      "path": "verify-bible.ps1",
+      "bytes": 2556,
+      "sha256": "937823f4530f706d4dc009ad351a239bb070eec6feafa73d043cd6967c2e86aa"
+    },
+    {
+      "path": "1-CHRONICLES/001-NOT-TIMNA-CONCUBINE-MOTHER-NOT-TIMNA-SON-SIBLING.md",
+      "bytes": 8804,
+      "sha256": "4f1d287492afec137608923e9b5e0cf62d0d0dd1a5aacb3c3412f81e412323d6"
+    },
+    {
+      "path": "1-CHRONICLES/002-NOT-JESSE-EIGHT-SONS-NOT-DAVID-SEVENTH.md",
+      "bytes": 7543,
+      "sha256": "af1dca852081c47c21d1860370c3a0fd8e38143d0df24711cc5de097c24ce765"
+    },
+    {
+      "path": "1-KINGS/001-NOT-ADONIJAH-I-WILL-BE-KING-NOT-SOLOMON-IS-KING.md",
+      "bytes": 9513,
+      "sha256": "01a683a7dd81da140e3001069f7d088a9f9838f78cde26489d4cbddc7eb58e06"
+    },
+    {
+      "path": "1-KINGS/002-NOT-DAVID-I-WILL-NOT-KILL-YOU-NOT-SOLOMON-I-WILL-NOT-DENY-YOU.md",
+      "bytes": 9258,
+      "sha256": "8dfe438d86a82e4370eae11fb2177fee4ab73fd4762108b17ca221b3a2d67032"
+    },
+    {
+      "path": "1-KINGS/003-NOT-THE-LIVING-CHILD-IS-MINE-NOT-NEITHER-MINE-NOR-YOURS.md",
+      "bytes": 8799,
+      "sha256": "40e3cbb9c8edd77468bd269ea6f27679eda3cd0ed4c5b20a76f8c883eadde1f1"
+    },
+    {
+      "path": "1-KINGS/004-NOT-ABIATHAR-REMOVED-FROM-PRIESTHOOD-NOT-ABIATHAR-WAS-PRIEST.md",
+      "bytes": 8782,
+      "sha256": "aafb5a0745a1e2cc12252162c621214b1bbb0d6bcef54db2ca51ef0e8615996d"
+    },
+    {
+      "path": "1-KINGS/005-NOT-HIRAM-TIMBER-FOR-FOOD-NOT-SOLOMON-ONE-MONTH-ON-TWO-MONTHS-HOME.md",
+      "bytes": 6748,
+      "sha256": "10aea9c442de88061fcab7b86f9abcb0d55cff7e421c8abf53f6493e6b693147"
+    },
+    {
+      "path": "1-KINGS/006-NOT-THE-HOUSE-WAS-FINISHED-NOT-KEEP-BUILDING-IT.md",
+      "bytes": 8565,
+      "sha256": "c29650fb1be22e5043cd12dc2b09ea96f68df9e3a3dab2df165fd0294e704dcd"
+    },
+    {
+      "path": "1-KINGS/007-NOT-SOLOMON-THIRTEEN-YEAR-HOUSE-NOT-HIRAM-BRONZE-EVERYTHING.md",
+      "bytes": 9205,
+      "sha256": "637242e4828cb227514739dc56d5ae30bc2a548a36950dc08e5af6b26e1401e0"
+    },
+    {
+      "path": "1-KINGS/008-NOT-A-HOUSE-FOREVER-NOT-THIS-HOUSE-CANNOT-CONTAIN-YOU.md",
+      "bytes": 10930,
+      "sha256": "356a72c6394241af4412359cc8c66d05790d0783a7b7a07359cdc97f9cd5e16f"
+    },
+    {
+      "path": "1-KINGS/009-NOT-NAME-THERE-FOREVER-IF-YOU-LEAVE-HOUSE-OUT-OF-SIGHT.md",
+      "bytes": 9775,
+      "sha256": "f9d1555cbf178a27454bec98ef46bc5e7e4164c925b1da18dda98732c6e2082e"
+    },
+    {
+      "path": "1-KINGS/010-NOT-DO-NOT-MULTIPLY-HORSES-NOT-DO-NOT-MULTIPLY-MONEY.md",
+      "bytes": 9645,
+      "sha256": "386d4da9a077ecc46e50dbb801475078c2085838121a969a9de5269d0f003214"
+    },
+    {
+      "path": "1-KINGS/011-NOT-SOLOMON-ONE-THOUSAND-WOMEN-NOT-TWELVE-PIECES-TEN-PLUS-ONE.md",
+      "bytes": 14549,
+      "sha256": "b30a72f4265eb1b302561be82b014f32c43da9b7ef67a9386a22abee799c7160"
+    },
+    {
+      "path": "1-KINGS/012-NOT-REHOBOAM-LIGHTEN-THE-YOKE-I-WILL-ADD-SCORPIONS.md",
+      "bytes": 11019,
+      "sha256": "f28c89e17e9bb634cc92fd6ddfb6e6219c27eea0c3d6a77834cd3746806edc5d"
+    },
+    {
+      "path": "1-KINGS/013-NOT-MAN-OF-GOD-DO-NOT-RETURN-NOT-OLD-PROPHET-AN-ANGEL-SAID-RETURN-HE-LIED.md",
+      "bytes": 10643,
+      "sha256": "9e5243ca034217b538bbb62c55c58cfaa8cd3cbd7ae42cbc0e2029c788732aca"
+    },
+    {
+      "path": "1-KINGS/014-NOT-JEROBOAMS-WIFE-DISGUISE-YOURSELF-NOT-LORD-THATS-JEROBOAMS-WIFE.md",
+      "bytes": 11422,
+      "sha256": "7ee02b31329acb0120e4e3064233c5f18123ac65f809cd68c67d503908240b57"
+    },
+    {
+      "path": "1-KINGS/015-NOT-ASA-DEDICATED-GOLD-IN-NOT-ASA-TAKE-ALL-GOLD-OUT-BREAK-HIS-TREATY.md",
+      "bytes": 11729,
+      "sha256": "cad52c0a1aad8db4237548cde82d8a997d62f785f800f1c6961c0e35b28819ca"
+    },
+    {
+      "path": "1-KINGS/016-NOT-BAASHA-FULFIL-THE-WORD-NOT-LORD-JUDGE-HIM-FOR-FULFILLING-IT.md",
+      "bytes": 12075,
+      "sha256": "a1dbc69b4c734bd2c39f1147380c8b100a27ab0156c8b060da5d50faf380a224"
+    },
+    {
+      "path": "1-KINGS/017-NOT-WIDOW-ONE-MEAL-THEN-DIE-NOT-ELIJAH-MAKE-MINE-FIRST.md",
+      "bytes": 9405,
+      "sha256": "34ce4299343a88bfec8693c8b415c889fe9f3e131e4cffd805664dabddf2fb8e"
+    },
+    {
+      "path": "1-KINGS/018-NOT-ELIJAH-I-ONLY-AM-LEFT-NOT-OBADIAH-I-HID-ONE-HUNDRED.md",
+      "bytes": 13923,
+      "sha256": "6ac1b417a613a6b075e9640e375870fedd678785c7cd2d9cbb1cc3cae5f85bca"
+    },
+    {
+      "path": "1-KINGS/019-NOT-JEZEBEL-BY-TOMORROW-NOT-ELIJAH-FORTY-DAYS-LATER.md",
+      "bytes": 10867,
+      "sha256": "55d7d0c72c31c791b7491a7ef48b26e1a04515d7f03172cf5e2e95ba87f34def"
+    },
+    {
+      "path": "1-KINGS/020-NOT-SYRIA-GOD-OF-HILLS-NOT-VALLEYS-FIGHT-IN-PLAIN-LOSE.md",
+      "bytes": 12609,
+      "sha256": "c9233038cfd2346fd6385955d7c8bb71aeb9c2bce6ed5cbea5aa18201597a40e"
+    },
+    {
+      "path": "1-KINGS/021-NOT-JEZEBEL-WRITE-THE-CRIME-NOT-WITNESSES-SAY-IT-HAPPENED.md",
+      "bytes": 10334,
+      "sha256": "1121c20a29f320b4c86a43d700a70d17f29c2b8498d41273ce6a04bb81b9445c"
+    },
+    {
+      "path": "1-KINGS/022-NOT-FOUR-HUNDRED-GO-AND-PROSPER-NOT-AHAB-DEAD-BY-EVENING.md",
+      "bytes": 13170,
+      "sha256": "2433afa218f5827913a95fc1cf5a4fff85e9116a7622b32df7f0322f5a47237a"
+    },
+    {
+      "path": "1-SAMUEL/001-NOT-ELI-HOW-LONG-WILL-YOU-BE-DRUNK-NOT-HANNAH-I-HAVE-NOT-BEEN-DRINKING.md",
+      "bytes": 10822,
+      "sha256": "478a885ed3a94cf3b77e7ca4eccb0ad1c64fd1a618487b1f31680ab20415ceba"
+    },
+    {
+      "path": "1-SAMUEL/002-NOT-THE-LORD-I-SAID-YOUR-HOUSE-WALKS-BEFORE-ME-FOREVER-BUT-NOW-FAR-BE-IT-FROM-ME.md",
+      "bytes": 11656,
+      "sha256": "7858a2879db4d4745c7b0a39068eb81004dffc83abfa61e552731600d9d8a23d"
+    },
+    {
+      "path": "1-SAMUEL/003-NOT-THE-LORD-CALLED-NOT-SAMUEL-YOU-CALLED-ME-NOT-ELI-I-DIDNT-CALL.md",
+      "bytes": 10042,
+      "sha256": "8590b9c814dd2ca3b1512ee3709e3cfcc37ab2f810187f0274f1aad4068e07d7"
+    },
+    {
+      "path": "1-SAMUEL/004-NOT-ISRAEL-BRING-THE-ARK-SO-IT-MAY-SAVE-US-ARK-BROUGHT-ISRAEL-DEFEATED-ARK-CAPTURED.md",
+      "bytes": 10093,
+      "sha256": "ce955afd84c252244ea440dfe4e2644de2929efc0ce9428539d2f1d161e65469"
+    },
+    {
+      "path": "1-SAMUEL/005-NOT-ASHDOD-SENDS-THE-HARMFUL-ARK-TO-NOT-GATH-NOT-GATH-SENDS-IT-TO-NOT-EKRON.md",
+      "bytes": 8028,
+      "sha256": "d746e9739b63daf96e8cae3f14c2a353d201672c828dbe76336ca1d3549b4e71"
+    },
+    {
+      "path": "1-SAMUEL/006-NOT-PHILISTINES-TEST-THE-ARK-NOT-BETH-SHEMESH-REJOICES-THEN-SENDS-IT-ON.md",
+      "bytes": 9035,
+      "sha256": "ab235a6dccab48596bb8657400557032ded1898f8dc862a408aca4016301c3f5"
+    },
+    {
+      "path": "1-SAMUEL/007-NOT-ISRAEL-PUTS-AWAY-GODS-NOT-SAMUEL-CRIES-OUT-NOT-THE-LORD-THUNDERS.md",
+      "bytes": 7858,
+      "sha256": "7a4caf67f1e80c8205ee9ed121c673047662620da67158ab3d82ec141d34daf6"
+    },
+    {
+      "path": "1-SAMUEL/008-NOT-OUR-JUDGES-TAKE-BRIBES-GIVE-US-A-KING-WHO-WILL-TAKE-EVERYTHING.md",
+      "bytes": 8293,
+      "sha256": "8d318e303b03166d695aa1aab9473d83674ca0661d772706c7d603177880492e"
+    },
+    {
+      "path": "1-SAMUEL/009-NOT-SAUL-LOOKS-FOR-DONKEYS-NOT-SAMUEL-WAS-EXPECTING-HIM.md",
+      "bytes": 9396,
+      "sha256": "a5ca8d6b478ef0485c68a9c17bfe3640ab2c0f9e554fe2db5e3ffb6aabd8cc4e"
+    },
+    {
+      "path": "1-SAMUEL/010-NOT-THE-KING-WAS-CHOSEN-WHERE-IS-HE-IN-THE-BAGGAGE.md",
+      "bytes": 9764,
+      "sha256": "232ec01a7577a98bbf5cea854ecd0f16ec9cc94a4fcc710a48a5c2f64ba19654"
+    },
+    {
+      "path": "1-SAMUEL/011-NOT-WORTHLESS-FELLOWS-HOW-SHALL-THIS-MAN-SAVE-US-NOT-SAUL-ORGANIZES-THE-RESCUE.md",
+      "bytes": 9702,
+      "sha256": "b4d307fe17a1d783a920796be1ad43a2f8c13881c31180a7dfff8d4f1c897002"
+    },
+    {
+      "path": "1-SAMUEL/012-NOT-SAMUEL-WHEN-YOU-SAW-NOT-NAHASH-YOU-ASKED-FOR-A-KING-THE-KING-WAS-ALREADY-THERE.md",
+      "bytes": 10778,
+      "sha256": "1d8bf02943830dbdd8e8750179e4e5712023ba643637dae7798fb1837cc1bd46"
+    },
+    {
+      "path": "1-SAMUEL/013-NOT-JONATHAN-STRUCK-THE-GARRISON-EVERYONE-HEARD-NOT-SAUL-DID-IT.md",
+      "bytes": 11777,
+      "sha256": "edf2b14d1bce7622ff356ed9ce760dd7768be0e16e56967ca71cec15590eab0e"
+    },
+    {
+      "path": "1-SAMUEL/014-NOT-SAUL-NOBODY-EATS-UNTIL-I-AM-AVENGED-THEY-FAINT-AND-EAT-WITH-BLOOD.md",
+      "bytes": 9383,
+      "sha256": "3ef52b024bfc10e96ad458aeea0cdfdd5b028bdaf4046e5c5c43eaa1f5505606"
+    },
+    {
+      "path": "1-SAMUEL/015-NOT-SAUL-I-PERFORMED-THE-COMMAND-THE-SHEEP-DISAGREE.md",
+      "bytes": 11468,
+      "sha256": "f99e8bc68a5df95421090c2df281051c9b62f9f90eead7b5d8bd7a68d23d35f7"
+    },
+    {
+      "path": "1-SAMUEL/016-NOT-SAMUEL-SURELY-THIS-IS-THE-ONE-NOT-THE-LORD-NO.md",
+      "bytes": 10024,
+      "sha256": "be3e5feac491ea3511ba4bf8830687c0591a46a33989c16cba3f169f97f7053a"
+    },
+    {
+      "path": "1-SAMUEL/017-NOT-SAUL-WHOSE-SON-IS-THE-GUY-I-REQUESTED-FROM-HIS-FATHER.md",
+      "bytes": 11653,
+      "sha256": "ce10833ec6f8edc42d0d369842453096146d4b9cb6a6d64534cb58f94540d7cc"
+    },
+    {
+      "path": "1-SAMUEL/018-NOT-SAUL-KILL-GOLIATH-GET-MY-DAUGHTER-FIGHT-MORE-SHE-MARRIED-SOMEONE-ELSE.md",
+      "bytes": 7210,
+      "sha256": "3de946c30f60e7b3dfb318fc031d16ec64e0054d7f417209e53e65029ebf9b33"
+    },
+    {
+      "path": "1-SAMUEL/019-NOT-SAUL-AS-THE-LORD-LIVES-DAVID-WILL-NOT-DIE-BRING-HIM-HERE-SO-I-CAN-KILL-HIM.md",
+      "bytes": 8891,
+      "sha256": "ad1a480e8af8611104030fed9cdda861cb5bffce20b99a08cc2006eed1182f26"
+    },
+    {
+      "path": "1-SAMUEL/020-NOT-JONATHAN-IT-IS-NOT-SO-NOT-SAUL-HE-SHALL-SURELY-DIE.md",
+      "bytes": 9664,
+      "sha256": "bde34d23be29bad0dc9fdd55517f61705587990dcc4db2db8a96b0ed07d559c4"
+    },
+    {
+      "path": "1-SAMUEL/021-NOT-DAVID-THE-KING-SENT-ME-SECRETLY-I-AM-FLEEING-THE-KING.md",
+      "bytes": 8119,
+      "sha256": "c6462161852cad21d81ecd521a6a34cda9599125f2445007acb879f0ccc8755e"
+    },
+    {
+      "path": "1-SAMUEL/022-NOT-SAUL-YOU-AND-ALL-YOUR-FATHERS-HOUSE-SHALL-SURELY-DIE-ONE-SON-ESCAPED.md",
+      "bytes": 7649,
+      "sha256": "a5dab958f57a4162134f96c583ef93ea652bb66acb78ff73069116dc9f81ebb6"
+    },
+    {
+      "path": "1-SAMUEL/023-NOT-SAUL-GOD-HAS-DELIVERED-HIM-INTO-MY-HAND-GOD-DID-NOT-DELIVER-HIM.md",
+      "bytes": 8813,
+      "sha256": "7f4c5f12fcb06b0a2cd564c125ce3183cd23fa4c4d82c9f1b2a9055c0e65531c"
+    },
+    {
+      "path": "1-SAMUEL/024-NOT-DAVID-I-CUT-YOUR-ROBE-I-DID-NOT-KILL-YOU.md",
+      "bytes": 8449,
+      "sha256": "9fa077f36aad5a68ae11f37e0743c032722ce5772083342b94e2dfc153c0f51d"
+    },
+    {
+      "path": "1-SAMUEL/025-NOT-DAVID-IF-I-LEAVE-ONE-MALE-BY-MORNING-NABAL-IS-ALIVE-IN-THE-MORNING.md",
+      "bytes": 12452,
+      "sha256": "d70a9a9c93edfff923f0b1dd441d204b11a9a10f9df245d803d187826d7ea1de"
+    },
+    {
+      "path": "1-SAMUEL/026-NOT-SAUL-I-WILL-DO-YOU-NO-MORE-HARM.md",
+      "bytes": 9376,
+      "sha256": "e8acea216bc0c39ad6f1b794bff78d49897dc8f2a284c523ee3c83335cbc7dc6"
+    },
+    {
+      "path": "1-SAMUEL/027-NOT-DAVID-WHO-DID-YOU-RAID-NOT-THE-PEOPLE-I-RAIDED.md",
+      "bytes": 7598,
+      "sha256": "503a9fbc4439bb14e4b650e79981d28538dbe0ba830b5180395e4fedccf6e3d2"
+    },
+    {
+      "path": "1-SAMUEL/028-NOT-SAUL-I-SENT-THEM-OUT-FIND-ME-ONE.md",
+      "bytes": 8797,
+      "sha256": "3718e8e82e3113d8279db4e5011141d8812a4a319a16b383ed2012ca9b841cc3"
+    },
+    {
+      "path": "1-SAMUEL/029-NOT-ACHISH-I-FOUND-NO-FAULT-IN-THE-MAN-WHO-DECEIVED-ME.md",
+      "bytes": 6151,
+      "sha256": "ca4e877db328d0b59cfc9ae22991bc71a6c92f482ec4afe341479908b1b665e7"
+    },
+    {
+      "path": "1-SAMUEL/030-NOT-DAVID-RECOVERED-ALL-AND-SHARED-ALIKE.md",
+      "bytes": 8192,
+      "sha256": "30d98d80faafe33288fe8cf7c084558f3f39e81269425fb17708eb202fa5ee03"
+    },
+    {
+      "path": "1-SAMUEL/031-NOT-SAUL-AND-THREE-SONS-DIED-ON-GILBOA.md",
+      "bytes": 6696,
+      "sha256": "a2938b932959f407b9f8a44146c59357b953a8faf4334dabdff19463618f8b9a"
+    },
+    {
+      "path": "2-KINGS/001-NOT-AHAZIAH-ASK-THE-FLY-GOD-NOT-THREE-FIFTIES-COME-DOWN.md",
+      "bytes": 7694,
+      "sha256": "16c8379a95f87faf5afd68f57351709f4cf07b74217a35014fa25fb3df77aa50"
+    },
+    {
+      "path": "2-KINGS/002-NOT-ELIJAH-GOES-UP-NOT-ELISHA-WHERE-IS-THE-LORD.md",
+      "bytes": 10020,
+      "sha256": "4c47f27e58c16464f8c01d35be06895c7866dd501de7623ae933fe64ac53223b"
+    },
+    {
+      "path": "2-KINGS/003-NOT-JEHORAM-LORD-DELIVERED-US-NOT-MOAB-THAT-WATER-IS-DEAD-KINGS.md",
+      "bytes": 10165,
+      "sha256": "b994d835b0e5959ffabac1672ce0e0d1d67a080eb7e0ce8ac4eefe338ac9df44"
+    },
+    {
+      "path": "2-KINGS/004-NOT-SHUNAMMITE-IS-IT-WELL-WITH-YOUR-CHILD-IT-IS-WELL.md",
+      "bytes": 10960,
+      "sha256": "f5178f8a418e2e0e514cb0f1885efbca451fbfc1b2eb0ab575402bb76274ab62"
+    },
+    {
+      "path": "2-KINGS/005-NOT-ISRAEL-KING-HE-SEEKS-A-QUARREL-NOT-GEHAZI-MY-MASTER-SENT-ME-I-WENT-NOWHERE.md",
+      "bytes": 10485,
+      "sha256": "81e987217049f6246433591f2e39fdaf35f093296a0a910669bd9bc00feafe3d"
+    },
+    {
+      "path": "2-KINGS/006-NOT-ELISHA-NOT-THE-WAY-NOT-THE-CITY-NOT-WOMAN-YOUR-SON-TOMORROW.md",
+      "bytes": 10251,
+      "sha256": "edbbd41bb3aadb0afdcbe32645f34b7f751f402710277decdcc42f7057c20c15"
+    },
+    {
+      "path": "2-KINGS/007-NOT-SYRIA-ISRAEL-HIRED-TWO-ARMIES-NOT-ISRAEL-KING-THEY-ARE-HIDING.md",
+      "bytes": 8233,
+      "sha256": "f0885e09dcd8525c27c860ee515e0ad1c6d7b3694e4250b4433e411c0230b4ed"
+    },
+    {
+      "path": "2-KINGS/008-NOT-SHUNAMMITE-SEVEN-YEARS-RESTORED-NOT-HAZAEL-RECOVER-THEN-DIE.md",
+      "bytes": 8946,
+      "sha256": "ed95d62f4516a9502057b1ea2637d371c8dd87de62ebbc281069ec011bf64e9d"
+    },
+    {
+      "path": "2-KINGS/009-NOT-JEHU-ANOINTED-NOT-JORAM-NABOTH-PLOT-NOT-JEZEBEL-WINDOW.md",
+      "bytes": 10437,
+      "sha256": "28367f8aa09b2c1b80cdee0c000f424d15c219c0998513a297de8b4cd8ddf585"
+    },
+    {
+      "path": "2-KINGS/010-NOT-JEHU-SEVENTY-HEADS-GREAT-BAAL-SACRIFICE-FOUR-GENERATIONS.md",
+      "bytes": 12247,
+      "sha256": "afbd94267d7f335ca54f626b5d6b79099870b4cfbb5bc04feefe1ed174827261"
+    },
+    {
+      "path": "2-KINGS/011-NOT-ATHALIAH-ALL-ROYAL-OFFSPRING-NOT-JOASH-HIDDEN-SIX-YEARS.md",
+      "bytes": 9011,
+      "sha256": "29b4cff8bc3a7d3c2387b6195f68a884c85da88016c758394aee6e53d10b0dde"
+    },
+    {
+      "path": "2-KINGS/012-NOT-JOASH-WHY-ARENT-YOU-REPAIRING-CHEST-HOLE-FAITHFUL-WORKERS.md",
+      "bytes": 9242,
+      "sha256": "eee8b75e2b24b667067e86d68162d745f06af52fb37fedacd4c18c54c25a3788"
+    },
+    {
+      "path": "2-KINGS/013-NOT-JOASH-STRIKE-GROUND-THREE-TIMES-NOT-DEAD-MAN-TOUCH-BONES-STAND-UP.md",
+      "bytes": 10212,
+      "sha256": "6c41b2676ac5e6baa65818f123aea887ff977ae3f5e32d79f2a225faee99f91a"
+    },
+    {
+      "path": "2-KINGS/014-NOT-AMAZIAH-LOOK-ME-IN-FACE-NOT-JEHOASH-YOUR-HEART-LIFTED-YOU.md",
+      "bytes": 6711,
+      "sha256": "b78f6d0b821ff2423f4f8db742834c08d6c03dab5602b9214c4eb8ca3ea3fb5c"
+    },
+    {
+      "path": "2-KINGS/015-NOT-MENAHEM-GATES-CLOSED-NOT-PREGNANT-WOMEN-PAY.md",
+      "bytes": 6880,
+      "sha256": "1cfc0df56b12ac25e9d75c24ec8cc91cc17b49c54a16c014a57c458355e9cda1"
+    },
+    {
+      "path": "2-KINGS/016-NOT-AHAZ-SEND-ME-ALTAR-PLANS-NOT-URIJAH-BUILT-BEFORE-RETURN.md",
+      "bytes": 5562,
+      "sha256": "e1aca8e23f7a83d39881274c6a8b191ce0bce672bd86974a198aaca88c6627b6"
+    },
+    {
+      "path": "2-KINGS/017-NOT-SETTLERS-FEAR-LORD-NOT-SETTLERS-DONT-FEAR-LORD.md",
+      "bytes": 6888,
+      "sha256": "d28945b7c68ce01033e2f192458ed9f157ee243436ab417345b07bbc9b90bc52"
+    },
+    {
+      "path": "2-KINGS/018-NOT-RABSHAKEH-LORD-TOLD-ME-DESTROY-THIS-LAND.md",
+      "bytes": 7215,
+      "sha256": "88f55aa47b0fe71121260ea61d3718d2376a03af17c36abb52d0a16eeb67acca"
+    },
+    {
+      "path": "2-KINGS/019-NOT-SENNACHERIB-YOUR-GOD-DECEIVES-YOU-NOT-LORD-I-WILL-DEFEND-THIS-CITY.md",
+      "bytes": 7277,
+      "sha256": "ba736c4a99cf75445266e9d25a6fcdde9c49487640c866b76f20607be9395d10"
+    },
+    {
+      "path": "2-KINGS/020-NOT-HEZEKIAH-DYING-PRAYS-FIFTEEN-YEARS-ADDED.md",
+      "bytes": 6597,
+      "sha256": "16657a4c0523fd431e8ad4895714a26775c33aacfab086d587faf5056f012e56"
+    },
+    {
+      "path": "2-KINGS/021-NOT-MANASSEH-REBUILDS-EVERYTHING-NOT-AMON-SERVANTS-KILL-HIM.md",
+      "bytes": 6552,
+      "sha256": "998529b6a1ce761408cc09ebf9da8b4a7b3f66e8694a1e585ed733732e9b3f03"
+    },
+    {
+      "path": "2-KINGS/022-NOT-HILKIAH-I-FOUND-THE-BOOK-NOT-JOSIAH-TEARS-CLOTHES.md",
+      "bytes": 5601,
+      "sha256": "514ee782ed6790af76156bd90e6bd1ebc3f018b8e7e22afad727fb6a749bea10"
+    },
+    {
+      "path": "2-KINGS/023-NOT-HULDAH-GRAVE-IN-PEACE-NOT-PHARAOH-NECOH-KILLS-JOSIAH.md",
+      "bytes": 9428,
+      "sha256": "9c31bce063f4d5b1ce250fd4543a595b58a150e4872b07abef4bda555c37c4bb"
+    },
+    {
+      "path": "2-KINGS/024-NOT-JEHOIAKIM-SERVES-THEN-REBELS-NOT-NEBUCHADNEZZAR-BESIEGES-AND-DEPORTS.md",
+      "bytes": 6310,
+      "sha256": "66d62fe20eb751b720fe3e32eb01c35229ce77f7a97f09b97e93041ffc0a2e29"
+    },
+    {
+      "path": "2-KINGS/025-NOT-ZEDEKIAH-FLEES-IS-CAUGHT-NOT-JEHOIACHIN-RELEASED-IN-YEAR-THIRTY-SEVEN.md",
+      "bytes": 8960,
+      "sha256": "85157b3bc3301c81efbe8b6940197b2175115fa1e53e20d99f20e89968afb878"
+    },
+    {
+      "path": "2-SAMUEL/001-NOT-AMALEKITE-I-KILLED-THE-MAN-WHO-KILLED-HIMSELF.md",
+      "bytes": 8238,
+      "sha256": "86b96542fe7d4c1e170bfb7a934f93852ae0ea6ba4bd8952ae99265918cb9d8b"
+    },
+    {
+      "path": "2-SAMUEL/002-NOT-ABNER-LET-THEM-FIGHT-WHY-WONT-YOU-STOP-THE-FIGHTING.md",
+      "bytes": 7828,
+      "sha256": "261041f5d0a379be5faf7871d1eb8d730d0e858362a54ab7421efef80588175e"
+    },
+    {
+      "path": "2-SAMUEL/003-NOT-DAVID-SENT-HIM-IN-PEACE-NOT-JOAB-BROUGHT-HIM-BACK-TO-DIE.md",
+      "bytes": 8256,
+      "sha256": "1b650549df351ce00fea405581ed9b4588f0bab922984b31f17120a2d3b4fb2b"
+    },
+    {
+      "path": "2-SAMUEL/004-NOT-CAPTAINS-WE-KILLED-HIM-THE-LORD-DID-IT.md",
+      "bytes": 6228,
+      "sha256": "e9aa4c0c745f3f5fbdd0f21fa6b44b3d675dc7e38bbb9a94711b495d158522d3"
+    },
+    {
+      "path": "2-SAMUEL/005-NOT-JEBUSITES-DAVID-CANT-COME-IN-DAVID-TOOK-THE-STRONGHOLD.md",
+      "bytes": 7078,
+      "sha256": "77756c5f2242ccdaa0c4294cbe222eaaf942e3b58e43f3de62f084319b38a828"
+    },
+    {
+      "path": "2-SAMUEL/006-NOT-UZZAH-TOUCHED-THE-ARK-NOT-DAVID-STOPPED-THEN-BROUGHT-IT-UP.md",
+      "bytes": 6878,
+      "sha256": "c6549243ce14725c667039e169e2e4a852e2db172c84a0bcbf8805ac3c8658cf"
+    },
+    {
+      "path": "2-SAMUEL/007-NOT-NATHAN-GO-DO-IT-NOT-NATHAN-YOUR-OFFSPRING-WILL-BUILD-IT.md",
+      "bytes": 6901,
+      "sha256": "2f19ebd84d50588ab176d67970bbd84866af455e28fd6d2398713adb226d11e9"
+    },
+    {
+      "path": "2-SAMUEL/008-NOT-DAVID-CONQUEST-TRIBUTE-DEDICATION-ADMINISTRATION.md",
+      "bytes": 7022,
+      "sha256": "3875ac22480ffc1b859a307df695748787d62fbf329951a6d04979b2897f7120"
+    },
+    {
+      "path": "2-SAMUEL/009-NOT-DAVID-ASKED-FOR-SOMEONE-TO-HELP-THEN-HELPED-HIM.md",
+      "bytes": 5829,
+      "sha256": "4d8603463000baa94abc790a73b89f16fe07fc2b6564b66d4d2bc6265a866e3c"
+    },
+    {
+      "path": "2-SAMUEL/010-NOT-DAVID-SENT-COMFORTERS-NOT-PRINCES-THEY-ARE-SPIES.md",
+      "bytes": 7705,
+      "sha256": "06e06736d5b7b5fdaa39e1eecda2936f229b1487db4817fbb48dabe971cd1efb"
+    },
+    {
+      "path": "2-SAMUEL/011-NOT-DAVID-MAKE-HIM-DIE-NOT-DAVID-THE-SWORD-EATS-EVERYONE.md",
+      "bytes": 9220,
+      "sha256": "03f7f027cff12b55cfd4793f7d0d02b7f46ebc562055c679bfb0563f0e991f51"
+    },
+    {
+      "path": "2-SAMUEL/012-NOT-DAVID-HE-DESERVES-DEATH-NOT-NATHAN-YOU-ARE-THE-MAN.md",
+      "bytes": 9875,
+      "sha256": "5b1e381aab2c5411a321ff69634fb9abb42ca97ec97a09e297ded9ebf8ba448f"
+    },
+    {
+      "path": "2-SAMUEL/013-NOT-AMNON-I-LOVE-HER-NOT-AMNON-FORCED-HATED-EXPELLED-HER.md",
+      "bytes": 10376,
+      "sha256": "d7e6367ecd43d3936aae27e852efb598ca8d731d5b85f3eec660e8e4332fcdcf"
+    },
+    {
+      "path": "2-SAMUEL/014-NOT-DAVID-PROTECT-HER-BANISHED-SON-NOT-WOMAN-BRING-YOURS-HOME.md",
+      "bytes": 11021,
+      "sha256": "8522c7ef9de86c7372779e4ffaab05302517c6c7c48ecd391a0021f585601154"
+    },
+    {
+      "path": "2-SAMUEL/015-NOT-ABSALOM-WHAT-CITY-NOT-ABSALOM-YOUR-CASE-IS-GOOD-AND-RIGHT.md",
+      "bytes": 11396,
+      "sha256": "d9113c304c25b1f6dc298085b73edc16aef887f8eacb5ef317b3d3d9ac5625f2"
+    },
+    {
+      "path": "2-SAMUEL/016-NOT-SHIMEI-DAVID-SPILLED-SAULS-HOUSE-BLOOD-NOT-LEDGER-OTHER-JOES-DID.md",
+      "bytes": 9475,
+      "sha256": "339c1486c653ef7ee88121ea3503fbb110e2417aaa8217a121dcc95b5137932b"
+    },
+    {
+      "path": "2-SAMUEL/017-NOT-HUSHAI-AHITHOPHELS-COUNSEL-IS-NOT-GOOD-NOT-NARRATOR-GOOD-COUNSEL.md",
+      "bytes": 9110,
+      "sha256": "e04afab1af34e3b0966b7bcf2e48142646e7573fc743a4ca98103fb3545d49bc"
+    },
+    {
+      "path": "2-SAMUEL/018-NOT-DAVID-DEAL-GENTLY-NOT-JOAB-THREE-DARTS.md",
+      "bytes": 8750,
+      "sha256": "bee849ca63468426c3a2591680a96f5ddedf2e596a2ad178870eb364d4ea6552"
+    },
+    {
+      "path": "2-SAMUEL/019-NOT-JOAB-YOU-LOVE-THOSE-WHO-HATE-YOU-NOT-DAVID-SAT-IN-THE-GATE.md",
+      "bytes": 9871,
+      "sha256": "c178664955f10e196db6be1685873a246cecc7b110574595dec168914ce5e186"
+    },
+    {
+      "path": "2-SAMUEL/020-NOT-ISRAEL-TEN-PARTS-NOT-SHEBA-NO-PORTION.md",
+      "bytes": 6562,
+      "sha256": "38e7227929245af70207893e7b15801320297b2b724e6c50c928ef672832abf8"
+    },
+    {
+      "path": "2-SAMUEL/021-NOT-GIBEONITES-NOT-FOR-US-TO-KILL-NOT-GIBEONITES-GIVE-US-SEVEN.md",
+      "bytes": 7898,
+      "sha256": "a8f1be40a75e0299d7ba39617fbbea294d41cfca63ff2069a40ab608b1652c31"
+    },
+    {
+      "path": "2-SAMUEL/022-NOT-DAVID-I-HAVE-NOT-WICKEDLY-DEPARTED.md",
+      "bytes": 8728,
+      "sha256": "710d8d1a84c1d1d4b779edad0ec6264ff58ce8b4a113bb28d9306e0276f92d72"
+    },
+    {
+      "path": "2-SAMUEL/023-NOT-DAVID-LAST-WORDS-NOT-MIGHTY-MEN.md",
+      "bytes": 7968,
+      "sha256": "d0324710e6c88031d1c47fc7776858049b39ccf651df7f0759c1443cbdcba26a"
+    },
+    {
+      "path": "2-SAMUEL/024-NOT-DAVID-LAST-WORDS-COUNT-THEM-PUNISH-THEM.md",
+      "bytes": 8938,
+      "sha256": "c04a9e4444cb0fbe39032d88ec6608cd757aad67072082e75a1fd91d2c4abe02"
+    },
+    {
+      "path": "DEUTERONOMY/001-ELEVEN-DAYS-FORTY-YEARS-WE-SINNED-THEN-WENT-ANYWAY.md",
+      "bytes": 8806,
+      "sha256": "597fcb9d85fcd338e2cb0ee31966dddc27005d3669625fb00f8da000350009c7"
+    },
+    {
+      "path": "DEUTERONOMY/002-BUY-THE-WATER-DONT-TOUCH-THE-LAND-OFFER-PEACE-HARDEN-REFUSAL.md",
+      "bytes": 7565,
+      "sha256": "7e24658f485de63b1005ab486ceacbb2bf69c2b95b7a49efbf62e3a228cdfca6"
+    },
+    {
+      "path": "DEUTERONOMY/003-SIXTY-CITIES-ONE-IRON-BED-LAND-GIVEN-WORK-STILL-REQUIRED.md",
+      "bytes": 6828,
+      "sha256": "81eb81ad9b1f2dc7b16a2eaff7a49870e82c8b441b453e728d64e8638b3f60ae"
+    },
+    {
+      "path": "DEUTERONOMY/004-DONT-ADD-DONT-SUBTRACT-VOICE-NO-FORM-THREE-REFUGES.md",
+      "bytes": 7380,
+      "sha256": "6f261b3164b10ed0946ec911215cb27db85c6d9476d7b0ffec65d3866224ef84"
+    },
+    {
+      "path": "DEUTERONOMY/005-FACE-TO-FACE-NO-FORM-TEN-WORDS-PLEASE-USE-MOSES.md",
+      "bytes": 6666,
+      "sha256": "84a1a297fbfc583de888d1f3a9b3863c7e6f0eea752a73a2d4f3e90a09f9bcb9"
+    },
+    {
+      "path": "DEUTERONOMY/006-LOVE-WITH-EVERYTHING-WRITE-IT-EVERYWHERE-DONT-FORGET-WHO-BUILT-NOTHING.md",
+      "bytes": 5475,
+      "sha256": "c397fa27184bdc99bf7dc999ab9168570ac35222f95900c40163e98a97619c14"
+    },
+    {
+      "path": "DEUTERONOMY/007-SEVEN-NATIONS-NO-DEALS-LITTLE-BY-LITTLE-WHO-IS-DOING-THIS.md",
+      "bytes": 6016,
+      "sha256": "416ae88a353c6cc8cee6b2044ca06419e2a0e7dca26f768852da2d2bf4ad76b2"
+    },
+    {
+      "path": "DEUTERONOMY/008-HUNGRY-MANNA-FULL-HOUSES-MY-HAND-GOT-THIS-WEALTH.md",
+      "bytes": 5696,
+      "sha256": "300c7b12d93456decadcbe0863d8614faae3f48a65f3ed33d458d8c889a0c90c"
+    },
+    {
+      "path": "DEUTERONOMY/009-NOT-YOUR-RIGHTEOUSNESS-WHO-BROUGHT-WHO-OUT-AGAIN.md",
+      "bytes": 6517,
+      "sha256": "e9ab652d43bb0683a18d6520b0aefb4e41b9a211ce7a5370b0b9c5f4e4613fa4"
+    },
+    {
+      "path": "DEUTERONOMY/010-TABLETS-IN-THE-ARK-AARON-DIED-SOMEWHERE-ELSE.md",
+      "bytes": 7033,
+      "sha256": "0def1b868f7a87eca9583119574756cdccfe29a23f843c4da8ec84a3a59cfacf"
+    },
+    {
+      "path": "DEUTERONOMY/011-YOUR-EYES-SAW-IT-RAIN-IF-YOU-LISTEN-MOUNTAIN-CHOICE-LATER.md",
+      "bytes": 6258,
+      "sha256": "92e0967f814951d5b42d184896a3f5bc0b19198318ea5a356457fab88e8b6eb3"
+    },
+    {
+      "path": "DEUTERONOMY/012-HOLY-MEAT-THERE-ORDINARY-MEAT-HERE-DO-NOT-EAT-THE-BLOOD.md",
+      "bytes": 6199,
+      "sha256": "b0dde84a26856834d5d9f5878cce9aaebc7636a85a3ef8f20093caf53fa16ab6"
+    },
+    {
+      "path": "DEUTERONOMY/013-THE-SIGN-WORKED-DONT-FOLLOW-HIM-INVESTIGATE-BEFORE-BURNING-THE-CITY.md",
+      "bytes": 5923,
+      "sha256": "848388ee546e472bf8a5d422f34a9f7fcaf53f043b3e7420e7b1146de77b3b37"
+    },
+    {
+      "path": "DEUTERONOMY/014-CLEAN-MENU-DEAD-ANIMAL-FOR-THE-FOREIGNER-TITHE-TO-MONEY.md",
+      "bytes": 6706,
+      "sha256": "71b9c50b370dd2c61733d90605f8ebffb04c693e79e186b2c1df0e6f01046201"
+    },
+    {
+      "path": "DEUTERONOMY/015-NO-POOR-WITH-YOU-THE-POOR-WILL-NEVER-CEASE.md",
+      "bytes": 6992,
+      "sha256": "a3b0fdab29540fb16446d5a3c7fce0d7df1da165a4a78ccddb5ecbdaa98d4457"
+    },
+    {
+      "path": "DEUTERONOMY/016-THREE-FEASTS-DONT-SHOW-UP-EMPTY-DONT-BLIND-THE-JUDGE.md",
+      "bytes": 6459,
+      "sha256": "6762f6c88be448de7c60c7343a66906564010890224bea031a54c590ed5f49df"
+    },
+    {
+      "path": "DEUTERONOMY/017-TWO-WITNESSES-HIGH-COURT-NO-HORSE-WIFE-MONEY-PILE.md",
+      "bytes": 6305,
+      "sha256": "02f5ae6c2281ec3ff587a8d4854cb1dd8cfa5dabed3dcf38b87f8759a73a44e9"
+    },
+    {
+      "path": "DEUTERONOMY/018-SHOULDER-CHEEKS-GUTS-NO-WIZARDS-IF-IT-DOESNT-HAPPEN-NOT-MY-WORD.md",
+      "bytes": 6547,
+      "sha256": "ec3a32e4eef9713b94afeac128a7270beb7ab1cfb2e83ccb76c148da200661f0"
+    },
+    {
+      "path": "DEUTERONOMY/019-AXE-HEAD-CITY-THREE-PLUS-THREE-DO-TO-THE-FALSE-WITNESS.md",
+      "bytes": 6274,
+      "sha256": "5180bb4e7bee6bdf892f71c7c63ed7e460bce5538b655e6e2152d4ecba66b0b8"
+    },
+    {
+      "path": "DEUTERONOMY/020-NEW-HOUSE-GO-HOME-OFFER-PEACE-DONT-FIGHT-THE-FRUIT-TREES.md",
+      "bytes": 6067,
+      "sha256": "1a882fdaa97adcebcd03583fc7d9863a5656df0f990eca81214a4a83ce67771c"
+    },
+    {
+      "path": "DEUTERONOMY/021-UNKNOWN-KILLER-HEIFER-HATED-WIFE-FIRSTBORN-BURY-HIM-TODAY.md",
+      "bytes": 7074,
+      "sha256": "0a4fe1b4346484d347b942b091f7942b5629125528969a3df3e622be6aeb2049"
+    },
+    {
+      "path": "DEUTERONOMY/022-RETURN-THE-DONKEY-BUILD-A-ROOF-RAIL-DONT-MERGE-THE-CASES.md",
+      "bytes": 7021,
+      "sha256": "64d9b11b50aa9f81394326f77227a8dd007342003b982fff2f29ce546c5556ed"
+    },
+    {
+      "path": "DEUTERONOMY/023-ASSEMBLY-GATES-BURY-IT-DONT-RETURN-THE-SERVANT-EAT-DONT-HARVEST.md",
+      "bytes": 7519,
+      "sha256": "feeb9cb97eeaffdf7c96933be8530c3aeb96e3846155dda2277578eed3ef7096"
+    },
+    {
+      "path": "DEUTERONOMY/024-DONT-TAKE-THE-MILL-DONT-ENTER-THE-HOUSE-PAY-BEFORE-SUNSET-LEAVE-THE-REST.md",
+      "bytes": 7557,
+      "sha256": "4f526543e5ca0403906791017c89cda769bb5c910ed89bcfd2848c2a5f7527f8"
+    },
+    {
+      "path": "DEUTERONOMY/025-FORTY-MAX-DONT-MUZZLE-THE-OX-ONE-WEIGHT-REMEMBER-AMALEK.md",
+      "bytes": 6023,
+      "sha256": "5ab33e91d3cc8cf3fa5dbc413b5728fcc376e6dc39cc2c4f0a70f845bef0ab1e"
+    },
+    {
+      "path": "DEUTERONOMY/026-BASKET-RECITAL-THIRD-YEAR-DECLARATION.md",
+      "bytes": 5286,
+      "sha256": "186a0731a95a071a173f22366d1f56844bc0f63829fb3dd3ccd9492fdc597cae"
+    },
+    {
+      "path": "DEUTERONOMY/027-PLASTER-THE-STONES-NO-IRON-TWO-MOUNTAINS-EVERYONE-SAYS-AMEN.md",
+      "bytes": 4932,
+      "sha256": "fd229be4b177d3f68c22899cc346756625947d46f8e2931c546e357123529b81"
+    },
+    {
+      "path": "DEUTERONOMY/028-IF-YOU-LISTEN-THIS-IF-YOU-DONT-ALL-OF-THAT.md",
+      "bytes": 7399,
+      "sha256": "a4e5d3536c5186a7f0f57445a0e63b5f7a382ddacfcb7d32e12b177140a0bb4c"
+    },
+    {
+      "path": "DEUTERONOMY/029-EVERYONE-STANDS-THE-ROOT-ISNT-SECRET-THINGS-ARE.md",
+      "bytes": 5623,
+      "sha256": "4f9567f9e8b14a97e2823b8a72d9ffc816aeef9f4d4d17f8ec9debc2a0377992"
+    },
+    {
+      "path": "DEUTERONOMY/030-REMEMBER-RETURN-THE-WORD-IS-NEAR-CHOOSE-LIFE.md",
+      "bytes": 4785,
+      "sha256": "751c0cbde6d5cf8eed5fa703cfc32c2041530ddb20d12da2635afba8f571d9a9"
+    },
+    {
+      "path": "DEUTERONOMY/031-JOSHUA-GOES-THE-LAW-READS-THE-SONG-WITNESSES.md",
+      "bytes": 6024,
+      "sha256": "e14f61454b8824a91e3c01545631fbf23620c8a70d942703a52da5f117cddd28"
+    },
+    {
+      "path": "DEUTERONOMY/032-THE-SONG-SAYS-VENGEANCE-IS-MINE-MOSES-SEE-DONT-ENTER.md",
+      "bytes": 6327,
+      "sha256": "f125084acf0c6aad60b0bfa78c01e0d47e064c521633837c17f6c3e1f82c9dee"
+    },
+    {
+      "path": "DEUTERONOMY/033-BEFORE-MOSES-DIES-EVERY-TRIBE-GETS-A-LINE.md",
+      "bytes": 5358,
+      "sha256": "aa121906f7f34938eabbc01a6c82787b62ed03a9d7808acd4676538ad70a5e37"
+    },
+    {
+      "path": "DEUTERONOMY/034-MOSES-SEES-DOESNT-CROSS-DIES-UNKNOWN-GRAVE-JOSHUA-CONTINUES.md",
+      "bytes": 4875,
+      "sha256": "8c85ca2b1c7e7900d2ae02b6fadf15dca362b29c89bdefb3e8b5078f60a54044"
+    },
+    {
+      "path": "EXODUS/001-DEAL-WISELY-SO-THEY-DONT-MULTIPLY-THEY-MULTIPLIED-MORE.md",
+      "bytes": 7152,
+      "sha256": "5433c17d9967c38cbae7b64116b677ae344d65165536c7623d56ebae699abc95"
+    },
+    {
+      "path": "EXODUS/002-THROW-EVERY-SON-IN-THE-RIVER-THIS-ONE-IS-MY-SON.md",
+      "bytes": 8293,
+      "sha256": "75a396e0191b6173504400722058f4eb424e7130d9cb1bad9973a05c21947478"
+    },
+    {
+      "path": "EXODUS/003-I-CAME-DOWN-TO-DELIVER-THEM-I-AM-SENDING-YOU.md",
+      "bytes": 6240,
+      "sha256": "74078063dcdbc4d6e7e96bc8ad455dd117e3d0232389ee83b628578e48c9bbdc"
+    },
+    {
+      "path": "EXODUS/004-THEY-WONT-BELIEVE-ME-THEY-BELIEVED.md",
+      "bytes": 6598,
+      "sha256": "7ea7c746112ee4ebff7a08cd57859517a7ab1f901d6a614fa1379ac55b38f663"
+    },
+    {
+      "path": "EXODUS/005-NO-STRAW-SAME-BRICKS.md",
+      "bytes": 5975,
+      "sha256": "62c9c716bcc9bfdc03d92885a5f4f6606498dcf131ab0c2889855aa57ff4d2d5"
+    },
+    {
+      "path": "EXODUS/006-THEY-DIDNT-KNOW-MY-NAME-THEY-USED-MY-NAME.md",
+      "bytes": 6429,
+      "sha256": "e129802e1f30138073261b28f86ae2475de92168d530be592ceccfea839fb17c"
+    },
+    {
+      "path": "EXODUS/007-ALL-THE-WATER-WAS-BLOOD-THEY-DID-THE-SAME.md",
+      "bytes": 5711,
+      "sha256": "69d02f7924efdf1082ceb9fc1a21a7bb31d943075f2b8ac6ac8a9b6ceec5d093"
+    },
+    {
+      "path": "EXODUS/008-TAKE-IT-AWAY-I-WILL-LET-THEM-GO-NO.md",
+      "bytes": 6022,
+      "sha256": "41ff05b7a0eec27eb0507a6cf556c1cfc08274b9a03bce905ffe788e3005022b"
+    },
+    {
+      "path": "EXODUS/009-ALL-THE-LIVESTOCK-DIED-BRING-YOUR-LIVESTOCK-INSIDE.md",
+      "bytes": 9622,
+      "sha256": "1e9ded6f1e4cd08bbe6884077b4e683470cbdc503a91df7ac92a93af7e5eb247"
+    },
+    {
+      "path": "EXODUS/010-LET-THEM-GO-I-HARDENED-HIM-HE-DIDNT.md",
+      "bytes": 9247,
+      "sha256": "9ccff6253ffc269b39649ee1807b4340b8e0a69f55a9765ed81000fc76514b33"
+    },
+    {
+      "path": "EXODUS/011-ONE-MORE-PLAGUE-THEN-HE-WILL-THROW-YOU-OUT.md",
+      "bytes": 6569,
+      "sha256": "851fd1bb3010644485476e4b4ecff9c5877776d01604bd14b0dccb13ff15fbf1"
+    },
+    {
+      "path": "EXODUS/012-I-HAVE-BROUGHT-YOU-OUT-YOU-ARE-STILL-IN-EGYPT.md",
+      "bytes": 11839,
+      "sha256": "1012a295966ece9655c25657f1660b061f6c762546651106b9677a01675d3df9"
+    },
+    {
+      "path": "EXODUS/013-DONT-TAKE-THE-SHORT-WAY-THEY-MIGHT-GO-BACK.md",
+      "bytes": 8078,
+      "sha256": "0aca338aab4171ed7cddf0b7271d4c237d72c1e7c6633c0774c9f556c20a9344"
+    },
+    {
+      "path": "EXODUS/014-YOU-WILL-NEVER-SEE-THEM-AGAIN-YOU-SEE-THEM-DEAD.md",
+      "bytes": 10308,
+      "sha256": "2f432b86efe14ffa2dec6151a00345ff70c95cd0d4f56a7219a74fcab5e0f898"
+    },
+    {
+      "path": "EXODUS/015-YOU-HAVE-GUIDED-THEM-THERE-YOU-WILL-BRING-THEM-THERE.md",
+      "bytes": 9202,
+      "sha256": "fa1de1ceee0ae253e3a62b6302bbfa18a37751aeed04d362a2e237b7737c7c84"
+    },
+    {
+      "path": "EXODUS/016-EVERY-DAY-THERE-SHALL-BE-NONE.md",
+      "bytes": 11655,
+      "sha256": "13ff2e98418b0852975e72b9a7dc66276af28506af4aab55aa53cb321bb56c1d"
+    },
+    {
+      "path": "EXODUS/017-WRITE-A-MEMORIAL-I-WILL-BLOT-OUT-THE-MEMORY.md",
+      "bytes": 9761,
+      "sha256": "7be39212b93a46901f9324bb0f41b230f69a376b5b32739e37997c42cab9e6d5"
+    },
+    {
+      "path": "EXODUS/018-YOU-SIT-ALONE-THEY-STAND-ALL-DAY.md",
+      "bytes": 10566,
+      "sha256": "867cef63c91aa39cc206381aab54ff15f8d566cedf8a171332535ff73c03434c"
+    },
+    {
+      "path": "EXODUS/019-WHEN-THE-TRUMPET-SOUNDS-COME-UP-DONT-COME-UP.md",
+      "bytes": 10272,
+      "sha256": "f0d6d8204742bede881a6a8b8271af040933700566b8d1b81728215c74aaeb46"
+    },
+    {
+      "path": "EXODUS/020-DONT-BE-AFRAID-HIS-FEAR-MAY-BE-BEFORE-YOU.md",
+      "bytes": 10745,
+      "sha256": "30b5fe9f9f8fd665c55280d0900f2e738a303f65c84e3608678d5c0133261d33"
+    },
+    {
+      "path": "EXODUS/021-HE-SHALL-GO-OUT-FREE-HE-SHALL-SERVE-FOREVER.md",
+      "bytes": 12229,
+      "sha256": "9f4178c511928a1aec74378864ea647e2a1890ddd4202a79d99b405e3d5c0fe0"
+    },
+    {
+      "path": "EXODUS/022-DONT-TAKE-ADVANTAGE-OF-WIDOWS-I-WILL-MAKE-YOUR-WIVES-WIDOWS.md",
+      "bytes": 12343,
+      "sha256": "b22b6da2e60c45b229b675cea32003ec7b6d7ccaa1de6a97a2be221304c3c844"
+    },
+    {
+      "path": "EXODUS/023-THE-HORNET-WILL-DRIVE-THEM-OUT-I-WILL-DRIVE-THEM-OUT-YOU-WILL-DRIVE-THEM-OUT.md",
+      "bytes": 11429,
+      "sha256": "b10db30dcc23259f284d346e92ffc20b8eea35a65d944bd2995d7b05bc6736c4"
+    },
+    {
+      "path": "EXODUS/024-THEY-SAW-GOD-AND-ATE-AND-DRANK.md",
+      "bytes": 9151,
+      "sha256": "d21e731fd982d4806be3efa6417b65de9d676d0f3078de47f99f255f73829d06"
+    },
+    {
+      "path": "EXODUS/025-DONT-MAKE-AN-IMAGE-MAKE-TWO-CHERUBIM.md",
+      "bytes": 10506,
+      "sha256": "a503ba7f9646c844f286d44e60ae84c4ce4970254f2cbcecfe9d6fd081b7f3c7"
+    },
+    {
+      "path": "EXODUS/026-MAKE-TEN-CHERUB-CURTAINS-SKIP-S086-E001.md",
+      "bytes": 9854,
+      "sha256": "3330133a4edb6c7e443c400f2438c5f2fb447eab93f1ca7a9228b38d4e14cd73"
+    },
+    {
+      "path": "EXODUS/027-BURN-CONTINUALLY-FROM-EVENING-TO-MORNING.md",
+      "bytes": 7327,
+      "sha256": "1f59946056c2006445ab6ae5e9f923c72d5e3b9c6a3bc1dd0e21dc92bd6feacb"
+    },
+    {
+      "path": "EXODUS/028-HOLY-TO-THE-LORD-THE-INIQUITY-OF-THE-HOLY-THINGS.md",
+      "bytes": 10036,
+      "sha256": "794c2bd60f9b03ae3264ca5892c5117e13048e4423aa4406940e8b6c0b251fc3"
+    },
+    {
+      "path": "EXODUS/029-YOU-SANCTIFY-THEM-I-WILL-SANCTIFY-THEM.md",
+      "bytes": 12271,
+      "sha256": "34c89867a49d9cb0d47b58736180f93adf3422d6c55fad7eb3a1efa958379dce"
+    },
+    {
+      "path": "EXODUS/030-MAKE-THE-OIL-DO-NOT-MAKE-ANY-LIKE-IT.md",
+      "bytes": 10812,
+      "sha256": "2d1479305b26d0a95d03d1207aa90b7cf7039656575547c1c021c9eaf149a1dc"
+    },
+    {
+      "path": "EXODUS/031-I-CALLED-BEZALEL-BY-NAME-GODS-FINGER-WROTE-THE-TABLETS.md",
+      "bytes": 7704,
+      "sha256": "60a70c1121db8592082bf0bd60ea360eae4b391b55a4dd7cd4b3bdd4f9183b1f"
+    },
+    {
+      "path": "EXODUS/032-I-MADE-IT-WITH-A-TOOL-OUT-CAME-THIS-CALF.md",
+      "bytes": 10107,
+      "sha256": "2230fcbbd0cd1113c66dcf210a9579c9120d05344a48c8f9d4e08a668a925d29"
+    },
+    {
+      "path": "EXODUS/033-FACE-TO-FACE-YOU-CANNOT-SEE-MY-FACE.md",
+      "bytes": 8102,
+      "sha256": "1282fc7d68b56ae19905f99a0777f46765463c210af59fa020650fe5be05dae9"
+    },
+    {
+      "path": "EXODUS/034-I-WILL-WRITE-WRITE-THESE-WORDS-HE-WROTE.md",
+      "bytes": 9123,
+      "sha256": "77043d3d71bf45396479cf7c1268ceebb5b4724bbcd208aafe2f74664a03d6e7"
+    },
+    {
+      "path": "EXODUS/035-WHOEVER-IS-WILLING-BRING-IT-THEY-BROUGHT-IT.md",
+      "bytes": 6801,
+      "sha256": "f6848eb580dd2f13a703c9d1616f6a88c4a9b8d421bd2c61abce8009a24ecc6a"
+    },
+    {
+      "path": "EXODUS/036-STOP-BRINGING-STUFF-WE-HAVE-TOO-MUCH.md",
+      "bytes": 6972,
+      "sha256": "e204de213113307299ef1501dc0fab68c71af09cb17c9906fa350eaf60aee6ef"
+    },
+    {
+      "path": "EXODUS/037-TWO-GOLD-CHERUBIM-AND-THE-FORBIDDEN-OIL-ACTUALLY-MADE.md",
+      "bytes": 6412,
+      "sha256": "07ad5369c307ba80f821c728d7408ac9b58180bfadf232ad26aa7c1a600c5125"
+    },
+    {
+      "path": "EXODUS/038-MIRRORS-INTO-A-BASIN-AND-EVERY-HALF-SHEKEL-ACCOUNTED-FOR.md",
+      "bytes": 6786,
+      "sha256": "8bde0240b71c18dfcf31b0f747280b988d582c48dc72d5b00d630fe78e1b7390"
+    },
+    {
+      "path": "EXODUS/039-TWELVE-NAMES-GOLD-FRUIT-BELLS-AND-MOSES-SIGNS-OFF.md",
+      "bytes": 7422,
+      "sha256": "4a56fb7c0cd5220bac1ec8d8fd7f325003d88ef0d4eff040bb25f4002b997ec9"
+    },
+    {
+      "path": "EXODUS/040-CLOUD-UP-WE-GO-CLOUD-DOWN-WE-DONT.md",
+      "bytes": 7693,
+      "sha256": "908c84e52ad143f2b4d7a33934e06a5763bc4fb32dd9b0e7f91484960943a524"
+    },
+    {
+      "path": "GENESIS/001-BEGIN.md",
+      "bytes": 5939,
+      "sha256": "e5a15ba43d5c8a984f25fc48f47de4de685af7077e1acf0b43d482c46353333c"
+    },
+    {
+      "path": "GENESIS/002-DUST-JOE.md",
+      "bytes": 8230,
+      "sha256": "5b4ad8547702e61e13460c5720143463dcd1f54ca579f5e59b90a585e5e8e284"
+    },
+    {
+      "path": "GENESIS/003-RULE-GOT-BIGGER.md",
+      "bytes": 8925,
+      "sha256": "9b762533ed0c51da5d135769083778c51814e36eb93a1260709378858b922530"
+    },
+    {
+      "path": "GENESIS/004-AM-I-HIS-KEEPER.md",
+      "bytes": 9485,
+      "sha256": "98f687b6379a8714c80ccef3bb5fa877b8d7eee1a9922a42057a50919408b6ed"
+    },
+    {
+      "path": "GENESIS/005-AND-THEN-HE-DIED.md",
+      "bytes": 7056,
+      "sha256": "72c6cbd0205c15051ac1bed0bcf9b2759255db100c4a2ade62190f8d060a06cd"
+    },
+    {
+      "path": "GENESIS/006-BUILD-THE-BOAT.md",
+      "bytes": 9123,
+      "sha256": "51779ea2bc40bb61de2488fcf90467dcf5cea85e6aa26c91747519cf4852da5f"
+    },
+    {
+      "path": "GENESIS/007-GOD-SHUT-THE-DOOR.md",
+      "bytes": 7981,
+      "sha256": "08c90402f6edbae1b064737a47b0bcf29d9d6dce846a9baee431a3352a572305"
+    },
+    {
+      "path": "GENESIS/008-THE-HEART-IS-STILL-EVIL.md",
+      "bytes": 6876,
+      "sha256": "c535c48e61127b52414fc6302069c4d4e52f43445260b8645956700cc3022a40"
+    },
+    {
+      "path": "GENESIS/009-HAM-DID-IT-CANAAN-CURSED.md",
+      "bytes": 7784,
+      "sha256": "692dc6ca8df1741e4a6d9715800c48a8d0d5d5cac2e568eb351c428fc8da673c"
+    },
+    {
+      "path": "GENESIS/010-NATIONS-INVENTORY.md",
+      "bytes": 6942,
+      "sha256": "51fc1a8916ecaff078d3921c99fdfd1ef7e7731790a72ec42b87e00109a06a8e"
+    },
+    {
+      "path": "GENESIS/011-BUILD-IT-NOT-TO-SCATTER.md",
+      "bytes": 8015,
+      "sha256": "76ca39702f7df7b9deab3ddf64375b1047b8c0b4b13917d22e547971615bd51d"
+    },
+    {
+      "path": "GENESIS/012-SISTER-IN-PLAGUES-OUT.md",
+      "bytes": 7800,
+      "sha256": "53e84c9c171625adb33ad889edf71a0842a23fce1772d8dc00a8650632d51d3b"
+    },
+    {
+      "path": "GENESIS/013-TOO-MUCH-STUFF-ONE-FIELD.md",
+      "bytes": 5870,
+      "sha256": "668b465ba6147d383a2bae8fa7fff4e278048382c77199c40aecb5ead1b82201"
+    },
+    {
+      "path": "GENESIS/014-FOUR-KINGS-FIVE-KINGS-318-JOES.md",
+      "bytes": 6816,
+      "sha256": "66e716566404997eedeb962d996885deefb58ebd72aac85c2bc3184b29448d96"
+    },
+    {
+      "path": "GENESIS/015-COUNT-STARS-CUT-ANIMALS.md",
+      "bytes": 7142,
+      "sha256": "a09438af2b4626d048a322685795fdde5f64ef5ff02e8612ea10311127d25aed"
+    },
+    {
+      "path": "GENESIS/016-I-GAVE-HER-YOUR-FAULT.md",
+      "bytes": 7929,
+      "sha256": "ac66a1f7870bbe4db94bed8a740d5e06c9c31b6333515cfe8955f3ef102a88d2"
+    },
+    {
+      "path": "GENESIS/017-NEW-NAMES-CUT-THE-HOUSE.md",
+      "bytes": 8626,
+      "sha256": "894635363fafc0f1d1df65ff951aa353d3453d40123b5d9b2a11667cb12173c8"
+    },
+    {
+      "path": "GENESIS/018-I-DIDNT-LAUGH.md",
+      "bytes": 9735,
+      "sha256": "18868d6e20b148f3cd6b11630bcccc8936d29b3372dbe153b1688865264acc84"
+    },
+    {
+      "path": "GENESIS/019-DONT-DO-THAT-DO-IT-TO-THESE.md",
+      "bytes": 12020,
+      "sha256": "d38e5bb623a4cf3e489d996f8ec49e38b9c7205f0ebed88edf6798f6fbe70adc"
+    },
+    {
+      "path": "GENESIS/020-SISTER-AGAIN-DREAM-WARNING.md",
+      "bytes": 9983,
+      "sha256": "8c48d08d94f57eee67dd718cab5d509fb316e8963e5ed4e8c3dae8f33d372144"
+    },
+    {
+      "path": "GENESIS/021-HE-LAUGHS-SHE-LEAVES-SEVEN-SHEEP.md",
+      "bytes": 10597,
+      "sha256": "d2090cf2398ae711eba254a3ce31291522ad4fbdea2ab3a1fb3c45fce4531312"
+    },
+    {
+      "path": "GENESIS/022-YOUR-ONLY-SON-THE-OTHER-ONE-LIVES.md",
+      "bytes": 11273,
+      "sha256": "0f18fdaf0888483b742dec994fa6f90018459c82e3aeb94adcc7ab49a3a5837e"
+    },
+    {
+      "path": "GENESIS/023-THE-FREE-FOUR-HUNDRED-SHEKEL-FIELD.md",
+      "bytes": 8641,
+      "sha256": "a9260a2e4b64462393d049f326f2c8eb201b4a38cafd18f31e9a02e2ee55f471"
+    },
+    {
+      "path": "GENESIS/024-WE-CANT-SPEAK-BAD-OR-GOOD-TAKE-HER.md",
+      "bytes": 14106,
+      "sha256": "2bfda4fbafcf5c8a1978ca9a153ed88563d2d00d9924be002682356b022e3c1c"
+    },
+    {
+      "path": "GENESIS/025-ABOUT-TO-DIE-WALKS-AWAY.md",
+      "bytes": 12230,
+      "sha256": "30dccc5a87bf46ef6749acce1b62c6dae2089095fd6025fd8ed4923621b9864d"
+    },
+    {
+      "path": "GENESIS/026-THE-TRUTH-CAME-WITH-A-DEATH-PENALTY.md",
+      "bytes": 14874,
+      "sha256": "b31898e9998da3518979c78758cb4a6a1b8d6e628accdd41d989e50cdd667c5d"
+    },
+    {
+      "path": "GENESIS/027-THE-VOICE-IS-JACOB-THE-HANDS-ARE-ESAU.md",
+      "bytes": 14831,
+      "sha256": "d1a037cc7e6465373a2f482631d9e96e2aeda83be1cc9e42696bea6d7ed87585"
+    },
+    {
+      "path": "GENESIS/028-RUN-FOR-YOUR-LIFE-AND-GET-MARRIED.md",
+      "bytes": 12288,
+      "sha256": "577b4757008ac56a366ffe14a7a4a2241711c4c1b28aab555994ee782d8b1184"
+    },
+    {
+      "path": "GENESIS/029-SEVEN-YEARS-FOR-RACHEL-HERES-LEAH.md",
+      "bytes": 13238,
+      "sha256": "c2c074f9c3355418cd92880e6257a4113e0f1fec077b769f9254de33c4165d6a"
+    },
+    {
+      "path": "GENESIS/030-NAME-YOUR-WAGES-I-REMOVED-THEM.md",
+      "bytes": 15087,
+      "sha256": "97980dd034e14213a5f17025d648ec493ab9504382fcee10db83f24de02c8b13"
+    },
+    {
+      "path": "GENESIS/031-DONT-SPEAK-GOOD-OR-BAD-KEEP-TALKING.md",
+      "bytes": 19115,
+      "sha256": "f7e645c4806968b9426b58bb1f241e768c1a97d6c704974f4092545343c9a85e"
+    },
+    {
+      "path": "GENESIS/032-YOUR-NAME-IS-NO-LONGER-JACOB-JACOB-LIMPED.md",
+      "bytes": 15303,
+      "sha256": "4184b2f55fc48b7d7bb17e602a6a70a0d2dc6b0d0451a8e478663dabc1196f44"
+    },
+    {
+      "path": "GENESIS/033-THE-PRESENT-APPEASED-HIM-BEFORE-HE-KNEW.md",
+      "bytes": 12671,
+      "sha256": "a03710db9e48be2542af8638ce8f38dcdba8bc57e77fd12ec8957d52ce872417"
+    },
+    {
+      "path": "GENESIS/034-BECOME-ONE-PEOPLE-KILL-ALL-THE-MALES.md",
+      "bytes": 15823,
+      "sha256": "8f33d16d1cd8da1eafd0293eb7e41abb41cd26d0e30b3248b1b624404e7855e7"
+    },
+    {
+      "path": "GENESIS/035-YOUR-NAME-WILL-NOT-BE-JACOB-JACOB-SET-UP-A-PILLAR.md",
+      "bytes": 13679,
+      "sha256": "1b91063fa762aa62aeb810873caa35a01fcc6859c4d2ee827fc78f166c1044fa"
+    },
+    {
+      "path": "GENESIS/036-THE-WIFE-LEDGER-CHANGED-NAMES.md",
+      "bytes": 11770,
+      "sha256": "ec8815a3d44745c31589e1aec400174d66a84eae214b77214a3bba08b0429a0f"
+    },
+    {
+      "path": "GENESIS/037-HE-IS-OUR-BROTHER-LETS-SELL-HIM.md",
+      "bytes": 14754,
+      "sha256": "5c93b3885b33a793cd4b92307acb7b9287e3e371704b4283078b0ed3a1c1125e"
+    },
+    {
+      "path": "GENESIS/038-BRING-HER-OUT-AND-BURN-HER-THOSE-ARE-MY-PLEDGES.md",
+      "bytes": 13589,
+      "sha256": "8fc470055323187b22388de089030462bacafdbe1e1cc4f8aef200f7e8603b64"
+    },
+    {
+      "path": "GENESIS/039-I-GRABBED-HIS-GARMENT-HE-CAME-IN-TO-ME.md",
+      "bytes": 11497,
+      "sha256": "7645f8032894c8a9c98a16b2bdcc9019b101057b8f8dcf5662dffe3ab9733767"
+    },
+    {
+      "path": "GENESIS/040-REMEMBER-ME-HE-DIDNT-REMEMBER-ME.md",
+      "bytes": 10157,
+      "sha256": "d39a8ccf2d4afcb6a384bd3e0c2664e60ec63e0e817f020be8ac7a787b149e35"
+    },
+    {
+      "path": "GENESIS/041-I-FORGOT-HIM-I-REMEMBER-TODAY.md",
+      "bytes": 14649,
+      "sha256": "375cdf8c5db5d93e0ad631440c5c1d807958f4a1ee498b9e91487458ac1564d4"
+    },
+    {
+      "path": "GENESIS/042-I-RECOGNIZE-YOU-YOU-ARE-SPIES.md",
+      "bytes": 9495,
+      "sha256": "bffd6db853e7798b579aa4262b87c32343aa5d91d6780d95ff5e17c64fd325e5"
+    },
+    {
+      "path": "GENESIS/043-HE-ASKED-US-DIRECTLY-HE-DIDNT.md",
+      "bytes": 10277,
+      "sha256": "805bd6989b5718c36b462a62775a24c9ab461c0ea8e8e980ae5107c22cdabd32"
+    },
+    {
+      "path": "GENESIS/044-I-PUT-THE-CUP-THERE-YOU-STOLE-IT.md",
+      "bytes": 10238,
+      "sha256": "59ac3b036642571af86dc3470681637847999e489f101e80494b3295c3bbc667"
+    },
+    {
+      "path": "GENESIS/045-YOU-SOLD-ME-IT-WASNT-YOU-GOD-SENT-ME.md",
+      "bytes": 9287,
+      "sha256": "5a5dda0ade217859908d310b5a3028bd654fda7fb778a0474ac281d889df01f2"
+    },
+    {
+      "path": "GENESIS/046-THEY-CAME-TO-EGYPT-THEY-DIED-IN-CANAAN.md",
+      "bytes": 8538,
+      "sha256": "46fdaaa70323727be8d2ea0ba3e3f543be8f0eddf3a45bea51ecce5651e5d5c6"
+    },
+    {
+      "path": "GENESIS/047-NO-BREAD-HERE-IS-BREAD-ALL-LAND-EXCEPT-THAT-LAND.md",
+      "bytes": 10770,
+      "sha256": "9ec74aeec47c31d73f8c53f5afe241847444a5f9d4fdc5f40d368b7cd393d1a0"
+    },
+    {
+      "path": "GENESIS/048-EPHRAIM-AND-MANASSEH-ARE-MINE-WHO-ARE-THESE.md",
+      "bytes": 7999,
+      "sha256": "21a426cd86d80b937ed64ab7067533b180ffd76bfc446b0d46a1b7adba1a624b"
+    },
+    {
+      "path": "GENESIS/049-EXCELLING-YOU-SHALL-NOT-EXCEL-I-CURSED-YOU-ALL-BLESSED.md",
+      "bytes": 9765,
+      "sha256": "f892c90abb487261e91b4738735490bc23985ebd3c0cf9443980cbbe7b15873b"
+    },
+    {
+      "path": "GENESIS/050-THE-DEAD-FATHER-ADDED-TWO-COMMANDS.md",
+      "bytes": 9401,
+      "sha256": "787cc82dceba99b19c9d9346280b628d553f67a0ebde48add42099267e70e71f"
+    },
+    {
+      "path": "JOSHUA/001-MOSES-DEAD-JOSHUA-GO-THREE-DAYS-WE-LISTENED-IN-ALL-THINGS.md",
+      "bytes": 5226,
+      "sha256": "89e4240e8c925b8c18d1ffc8b9f2ed2213b24fd0db89b81227abde14e1a24aee"
+    },
+    {
+      "path": "JOSHUA/002-SHE-HID-THEM-THEY-WENT-OUT-SCARLET-CORD-LAND-ALREADY-DELIVERED.md",
+      "bytes": 5675,
+      "sha256": "b73ad915f7ee34a624e59d4d809c603631eddaaf9f25a6e8c5199c723d26b19e"
+    },
+    {
+      "path": "JOSHUA/003-FOLLOW-THE-ARK-STAY-BACK-FEET-IN-WATER-EVERYONE-CROSSES-DRY.md",
+      "bytes": 4840,
+      "sha256": "4ad65eeb58957a69527a74de6c4b382c72694a9a1dfc543b64ec082825535f67"
+    },
+    {
+      "path": "JOSHUA/004-TWELVE-STONES-OUT-TWELVE-STONES-IN-PRIESTS-OUT-WATER-BACK.md",
+      "bytes": 4860,
+      "sha256": "1a26ae9d67648c346a180cc4518fd98625555efe3c6e1d7caf9c9c2b1f847e05"
+    },
+    {
+      "path": "JOSHUA/005-CIRCUMCISE-HEAL-PASSOVER-MANNA-STOPS-NO-I-COMMAND-THE-ARMY.md",
+      "bytes": 4812,
+      "sha256": "34dee1a495b186fea96807de0cb2c0e8a3dca0b6de8107bbd3bdf3cc8e63e9a3"
+    },
+    {
+      "path": "JOSHUA/006-CITY-ALREADY-GIVEN-MARCH-SEVEN-DAYS-GIVEN-AGAIN-SHOUT-WALL-FALLS.md",
+      "bytes": 5748,
+      "sha256": "5283d0b579aaccc2b6052bc0459433f16be3e811353046981f43dafa536111e0"
+    },
+    {
+      "path": "JOSHUA/007-ONE-MAN-TOOK-IT-ISRAEL-STOLE-IT-THIRTY-SIX-DIED.md",
+      "bytes": 7216,
+      "sha256": "e109a61b697007f271c1c4852e3ee26fe92aa4ddfb46f4dd1005a3c8043b16a0"
+    },
+    {
+      "path": "JOSHUA/008-AI-ALREADY-GIVEN-AMBUSH-FLEE-ON-PURPOSE-TURN-BACK-COPY-READ-EVERY-WORD.md",
+      "bytes": 7230,
+      "sha256": "c7ed2762e0cf433cadd4eb8018957d9d7b32830cc9902f33e4d6a50a4e3286aa"
+    },
+    {
+      "path": "JOSHUA/009-VERY-FAR-AWAY-THREE-DAYS-TO-THEIR-CITIES-OATH-STAYS.md",
+      "bytes": 6540,
+      "sha256": "2c2e6568f007b5fe64c24d8e6e7dba7062047af3e9a7b34d2d6bace93f19d646"
+    },
+    {
+      "path": "JOSHUA/010-FIVE-ARMIES-ALREADY-DELIVERED-SUN-WAITS-DONT-LET-THEM-IN-REMNANT-GOT-IN.md",
+      "bytes": 7894,
+      "sha256": "1a8a3536a36c9184562b61cf1eb53bd7271dbdf3785951086d68413276dbe1fe"
+    },
+    {
+      "path": "JOSHUA/011-TOMORROW-NORTHERN-ARMIES-HAZOR-ONLY-BURNED-LONG-WAR-WHOLE-LAND-RESTS.md",
+      "bytes": 6288,
+      "sha256": "91d7cac340ea25a26d308885d12fd74c51afbe88bd501ca0e6389a0ead797486"
+    },
+    {
+      "path": "JOSHUA/012-TWO-EAST-KINGS-THIRTY-ONE-WEST-KINGS-COUNT-THEM-DONT-FIGHT-THEM-AGAIN.md",
+      "bytes": 4535,
+      "sha256": "a8b2cc033856fe86698fe2d4d1a09af2077ee7927370cc851db0311b928c8a38"
+    },
+    {
+      "path": "JOSHUA/013-WHOLE-LAND-TAKEN-VERY-MUCH-LAND-REMAINS-NINE-AND-A-HALF-EAST-INHERITANCE.md",
+      "bytes": 7252,
+      "sha256": "04e407eaa90ef733c668286ce9e440c79971b07f13a469b8d36e68e73c18b88a"
+    },
+    {
+      "path": "JOSHUA/014-NINE-AND-A-HALF-BY-LOT-CALEB-WAITED-FORTY-FIVE-YEARS-GIVE-ME-HEBRON.md",
+      "bytes": 6480,
+      "sha256": "f4ef6c6227ad5f75a5c5426d4ca6a2fcb11115b20d919124cb45b02f38656ce1"
+    },
+    {
+      "path": "JOSHUA/015-NONE-LEFT-IN-HEBRON-CALEB-DRIVES-THREE-OUT-JUDAH-BORDERS-CITIES-AND-SPRINGS.md",
+      "bytes": 9370,
+      "sha256": "1053807fee9b40844b6c261fcd01b90f47faf477a57f98035ce3741d13f68886"
+    },
+    {
+      "path": "JOSHUA/016-JOSEPH-LOT-EPHRAIM-BORDER-GEZER-STAYS-AND-DOES-FORCED-LABOR.md",
+      "bytes": 4960,
+      "sha256": "c19c8dd6dea2cd32eefd8a6de6cf26f4cb6641e8e15f5ba593250786d140aac3"
+    },
+    {
+      "path": "JOSHUA/017-TEN-PARTS-FIVE-DAUGHTERS-COULDNT-DRIVE-THEM-OUT-STRONG-ENOUGH-FOR-FORCED-LABOR.md",
+      "bytes": 7754,
+      "sha256": "acd1dc6d4348c59667a62008ba447cfd0f2f27e1fffca879d5649bffcbda9501"
+    },
+    {
+      "path": "JOSHUA/018-LAND-ALREADY-GIVEN-SEVEN-STILL-NEED-TO-POSSESS-IT-SURVEY-BOOK-BENJAMIN-LOT.md",
+      "bytes": 7580,
+      "sha256": "b3d98cd768e5d17c977ad31860d601eb8943f60139a59dedc24a0eee156e81ad"
+    },
+    {
+      "path": "JOSHUA/019-SIX-MORE-LOTS-DAN-TAKES-LESHAM-JOSHUA-GETS-TIMNATHSERAH-DIVIDING-FINISHED.md",
+      "bytes": 8140,
+      "sha256": "035a5113c3a986eadd360967df363843f33c84a905d64ea784eb78e6b34ecaa6"
+    },
+    {
+      "path": "JOSHUA/020-SIX-REFUGE-CITIES-STATE-YOUR-CASE-WAIT-FOR-JUDGMENT-OR-HIGH-PRIEST-DEATH.md",
+      "bytes": 5836,
+      "sha256": "b3a9efa0bf5a8e24665b4d5a8b9b7cc5dbb6767a6bb13fb8491447033a6e1c75"
+    },
+    {
+      "path": "JOSHUA/021-FORTY-EIGHT-LEVITE-CITIES-ALL-LAND-POSSESSED-ALL-ENEMIES-DELIVERED-NOTHING-FAILED.md",
+      "bytes": 7810,
+      "sha256": "81dad8355eac58c8b4523c4aa0da9de41c0d75aaa292ce8cef9c991a77057d59"
+    },
+    {
+      "path": "JOSHUA/022-THEY-KEPT-THEIR-DUTY-BUILT-A-GREAT-ALTAR-ISRAEL-GATHERED-FOR-WAR-IT-WAS-A-WITNESS.md",
+      "bytes": 8191,
+      "sha256": "dc74e3f09f732eea854d81ad99d21894c1d2cd2d453b9419d34da3b7c3e1e5c4"
+    },
+    {
+      "path": "JOSHUA/023-NATIONS-REMAIN-THEY-WILL-BE-DRIVEN-OUT-NOT-ONE-GOOD-THING-FAILED.md",
+      "bytes": 5916,
+      "sha256": "b11d9b3311d777fee46e915b7d8c36f1c4a2cb06a18ab593acf6edf5a4804c54"
+    },
+    {
+      "path": "JOSHUA/024-CHOOSE-WHOM-YOU-WILL-SERVE-YOU-CANT-SERVE-HIM-COVENANT-MADE-THREE-BURIALS.md",
+      "bytes": 8365,
+      "sha256": "60c092e4f4cb86145cf3f7102d746bc582fed349190ad95f43a831690c35bbdb"
+    },
+    {
+      "path": "JUDGES/001-LAND-DELIVERED-FIGHT-FOR-IT-JERUSALEM-BURNED-JEBUSITES-STILL-THERE-EVERYONE-DIDNT-DRIVE-EVERYONE-OUT.md",
+      "bytes": 9382,
+      "sha256": "23e7c5ac4fceff981ea0bff03cec68bca1a522c25d6c6f94e8caffe61741c57d"
+    },
+    {
+      "path": "JUDGES/002-MESSENGER-SAYS-YOU-DIDNT-LISTEN-WEEP-SACRIFICE-JOSHUA-DIES-AGAIN-BUT-NOT-AGAIN-JUDGE-CYCLE-INSTALLED.md",
+      "bytes": 8314,
+      "sha256": "181ebb8b3965cf72a76ed5e707bb46c0a28d653a8b8e56a88cddba17da226c1c"
+    },
+    {
+      "path": "JUDGES/003-TEST-NATIONS-OTHNIEL-EHUDS-SECRET-MESSAGE-LOCKED-DOOR-TOILET-THEORY-SHAMGARS-OX-GOAD.md",
+      "bytes": 8210,
+      "sha256": "645a4118bd7d9b79cbfd7075af99bc0733f098dc40099cb8853a2ac28005cbca"
+    },
+    {
+      "path": "JUDGES/004-DEBORAH-BARAK-900-IRON-CHARIOTS-DONT-BE-AFRAID-TENT-PEG.md",
+      "bytes": 7224,
+      "sha256": "d2448eb0cc671d621a2cabeaeeeac8b4d79be1776749c5256608ef17907473fd"
+    },
+    {
+      "path": "JUDGES/005-DEBORAH-BARAK-SING-STARS-FIGHT-RIVER-SWEEPS-SISERA-FALLS-DEAD-MOTHER-WAITS-FOR-PLUNDER.md",
+      "bytes": 8717,
+      "sha256": "3a13b8ddd1f0eca863dde97b6bf121d72eaae6db8262d13a0d4a5c324b2807bc"
+    },
+    {
+      "path": "JUDGES/006-MIDIAN-EATS-EVERYTHING-GIDEON-WINEPRESS-FIRE-ROCK-BAAL-DEFEND-YOURSELF-FLEECE-JUST-ONCE-AGAIN.md",
+      "bytes": 9636,
+      "sha256": "e6815be4ab95f8d2e14820133b77e3d28a5917961586e6c5d367cf1680135d2d"
+    },
+    {
+      "path": "JUDGES/007-TOO-MANY-SEND-22000-HOME-300-LAPPERS-BARLEY-DREAM-TRUMPETS-JARS-TORCHES-ENEMY-SWORDS.md",
+      "bytes": 6393,
+      "sha256": "03aaa5c66b9061ea5983cf4818d1d860828f34ce02e4e41a339761504eb958da"
+    },
+    {
+      "path": "JUDGES/008-NO-BREAD-UNTIL-YOU-CATCH-THE-KINGS-THORNS-TOWER-LORD-RULES-GIVE-ME-GOLD-EPHOD-SNARE.md",
+      "bytes": 8759,
+      "sha256": "c2ad77284ae175c7f208955e61986df021beee2d8eff155ceec9d313db28be3f"
+    },
+    {
+      "path": "JUDGES/009-SEVENTY-RULERS-OR-ME-BROTHER-MONEY-ONE-STONE-TALKING-TREES-MOUNTAIN-SHADOWS-DONT-SAY-A-WOMAN-KILLED-ME.md",
+      "bytes": 10436,
+      "sha256": "ef88a89036647bc51e6ae04ed03b29bf7fc17504f3fd7b1677ee23630f3052bd"
+    },
+    {
+      "path": "JUDGES/010-NOT-TOLA-DODO-23-YEARS-NOT-JAIR-30-SONS-30-DONKEYS-30-CITIES-I-WILL-SAVE-NO-MORE-WHATEVER-YOU-WANT-ONLY-SAVE-US.md",
+      "bytes": 7197,
+      "sha256": "d9170381cc3f8621833b022af9dc406e15b29b735c35a0a994ddfc9c3214f9f7"
+    },
+    {
+      "path": "JUDGES/011-NOT-JEPHTHAH-DRIVEN-OUT-MADE-HEAD-I-WILL-SAVE-NO-MORE-DELIVERED-WHATEVER-COMES-OUT-YOU-TROUBLED-ME.md",
+      "bytes": 7920,
+      "sha256": "a1844a5d8a617de8cdfbb35a80d90f83dc27dacb05e15bdc953766ed21edf694"
+    },
+    {
+      "path": "JUDGES/012-NOT-EPHRAIM-YOU-DIDNT-CALL-US-NOT-JEPHTHAH-I-CALLED-YOU-SAY-NOT-SHIBBOLETH.md",
+      "bytes": 7176,
+      "sha256": "da70a207501e2fdd00312b0d6da9ae3911612a8379353f5ffb5fddd7ab3017fa"
+    },
+    {
+      "path": "JUDGES/013-NOT-MANOAH-TEACH-US-THE-CHILDS-MISSION-HER-DIET-WE-SHALL-SURELY-DIE-NOT-SAMSON-IS-BORN.md",
+      "bytes": 8899,
+      "sha256": "2b7d9fd1ab517631679bb27bdd8b96a6020a795e5292570481a78f632ebef28f"
+    },
+    {
+      "path": "JUDGES/014-NOT-SAMSON-LION-HONEY-RIDDLE-WE-ACCEPT-YOU-CALLED-US-TO-IMPOVERISH-YOU-HATE-ME.md",
+      "bytes": 9039,
+      "sha256": "77a92d235fe75fb838ec1673addd268385bf32266bd776050281314741cba751"
+    },
+    {
+      "path": "JUDGES/015-NOT-SAMSON-YOU-HATED-HER-300-FOXES-ONE-FATHER-ALL-PHILISTINE-CROPS-ONE-FATHER-BURN-BOTH.md",
+      "bytes": 9643,
+      "sha256": "8984aeb61fdcfa43687c34bd268b1db77d2515b07ec65ad501536346ec530987"
+    },
+    {
+      "path": "JUDGES/016-NOT-SAMSON-TELL-ME-HOW-TO-AFFLICT-YOU-TELL-ME-THE-TRUTH-AFFLICTED-NOT-DAGON-DID-IT-THREE-THOUSAND-PAY-FOR-TWO-EYES.md",
+      "bytes": 12582,
+      "sha256": "4738d37306e34dabe80163c79148e05fc6dfb42da5ae74ee4ee7f1d205dbd128"
+    },
+    {
+      "path": "JUDGES/017-NOT-MICAH-I-TOOK-YOUR-SILVER-MAY-THE-LORD-BLESS-YOU-DEDICATED-TO-THE-LORD-MAKE-IDOLS-BE-MY-FATHER-BECAME-MY-SON.md",
+      "bytes": 10196,
+      "sha256": "59100ab37ab44fd5e1a6b7002f4dd780ac1e1fb929b959bc119be0154282fd11"
+    },
+    {
+      "path": "JUDGES/018-NOT-DAN-INHERITANCE-ALLOTTED-HAD-NOT-FALLEN-ASK-GOD-NO-ASK-GOD-HAS-GIVEN-IT-NOW-INVADE-WE-TOOK-EVERYTHING-WHAT-AILS-YOU.md",
+      "bytes": 14419,
+      "sha256": "8fc7ee0d99c3c579a6f5469744f710db9c7fed534cf5a4cbb7042467da515e05"
+    },
+    {
+      "path": "JUDGES/019-NOT-LEVITE-SPEAK-KINDLY-BRING-HER-BACK-HANDS-HER-OUT-DONT-DO-THIS-FOLLY-TO-HIM-DO-WHAT-SEEMS-GOOD-TO-THEM.md",
+      "bytes": 11720,
+      "sha256": "241cc3d0842a2433485a2eecc14ffe494bae49a1f2b4eca488547ba81afeb8e0"
+    },
+    {
+      "path": "JUDGES/020-NOT-LEVITE-THEY-INTENDED-TO-KILL-ME-OMITS-HANDOFF-25100-BECOMES-25000-DELIVER-THE-MEN-DESTROY-EVERYTHING.md",
+      "bytes": 10575,
+      "sha256": "11b5b11ce70e65d436c89e505814500fc176549cc024c59d5270604052cb9c0d"
+    },
+    {
+      "path": "JUDGES/021-NOT-ISRAEL-WHY-DID-THE-LORD-MAKE-A-BREACH-WE-DESTROYED-IT-DESTROY-ANOTHER-TOWN-TO-FIX-IT-DONT-GIVE-WIVES-TAKE-THEM.md",
+      "bytes": 9598,
+      "sha256": "b24bcd1be42afecb8cf50c3be10c8503e7028e41954feca00cbc766e01a05d36"
+    },
+    {
+      "path": "LEVITICUS/001-HERD-FLOCK-OR-BIRD-BURN-THE-WHOLE-THING.md",
+      "bytes": 5956,
+      "sha256": "271a5f1bc97bfdfba21d1430ffa266ba2d55ad4de0b449c83ade8d4778907f7f"
+    },
+    {
+      "path": "LEVITICUS/002-BRING-THE-HONEY-DONT-BURN-THE-HONEY-AND-PUT-SALT-ON-EVERYTHING.md",
+      "bytes": 5896,
+      "sha256": "03285dbf72353dbaee793ccccb0e6c475cc47a94eb23006b5bff0501b5acd6ad"
+    },
+    {
+      "path": "LEVITICUS/003-MALE-OR-FEMALE-HAND-ON-HEAD-ALL-FAT-BELONGS-TO-GOD.md",
+      "bytes": 5622,
+      "sha256": "4d7d9f6e3d5d0d2118d6319566ee40fa37395a517b4a8a8e43eeb0e8b49c009b"
+    },
+    {
+      "path": "LEVITICUS/004-WHO-SINNED-PRIEST-EVERYONE-BOSS-OR-SOME-JOE.md",
+      "bytes": 7029,
+      "sha256": "babaad07afc9fcb83e4b888109c1f5cb0220fb21f2cd610a58548c584a33cebc"
+    },
+    {
+      "path": "LEVITICUS/005-HEARD-TOUCHED-SWORE-CANT-AFFORD-THE-LAMB.md",
+      "bytes": 8374,
+      "sha256": "e929954cc36072696aee0dfec2d71f2ddde535ca1c0ebad73dce7a89337482a2"
+    },
+    {
+      "path": "LEVITICUS/006-GIVE-IT-BACK-PLUS-A-FIFTH-KEEP-THE-FIRE-ON.md",
+      "bytes": 8955,
+      "sha256": "3a4e2106cff8e6faadb2ff2687365262900d459dc30be1645cea2862d1bffc1a"
+    },
+    {
+      "path": "LEVITICUS/007-THANKS-EAT-TODAY-VOW-TOMORROW-DAY-THREE-BURN-IT.md",
+      "bytes": 9414,
+      "sha256": "e5f440a73a2866021a6903fec4f90dd09a3333b4b49eca19b66929fabc0f281b"
+    },
+    {
+      "path": "LEVITICUS/008-WASH-DRESS-OIL-BLOOD-EAR-THUMB-TOE-STAY-SEVEN-DAYS.md",
+      "bytes": 10692,
+      "sha256": "20963992319e4c3fa0500b1802143fc465c8175115525ed44a543fc4810ac5df"
+    },
+    {
+      "path": "LEVITICUS/009-EIGHTH-DAY-AARON-RUNS-THE-ALTAR-FIRE-COMES-OUT.md",
+      "bytes": 9389,
+      "sha256": "a67b8740ceaff2c8b44c88340ed5087e4cd1398208e0c7b187edfbaed440900b"
+    },
+    {
+      "path": "LEVITICUS/010-NOT-COMMANDED-FIRE-IN-ATE-RULE-OUT-BURNED-ANSWER-ACCEPTED.md",
+      "bytes": 10497,
+      "sha256": "cc3bace75fcd7e9de2fe74aad842812c652a21984e4ad40cf1baeb2f2667fa1d"
+    },
+    {
+      "path": "LEVITICUS/011-SPLIT-HOOF-CUD-FINS-SCALES-HOPPING-LEGS-DRY-SEED-STILL-CLEAN.md",
+      "bytes": 10341,
+      "sha256": "bbd0069b18d9b51d3630af388858adb0e66dfab52dc8b126e9a394e6fab084a1"
+    },
+    {
+      "path": "LEVITICUS/012-SEVEN-THIRTY-THREE-FOURTEEN-SIXTY-SIX-BIRDS-IF-NO-LAMB.md",
+      "bytes": 7296,
+      "sha256": "96c7aead689204ded7d4f02f5f3886bc15fe0962a2be6d9c315ac3db1724626f"
+    },
+    {
+      "path": "LEVITICUS/013-PRIEST-LOOKS-WAIT-LOOKS-AGAIN-SPREAD-BURN-FADE-WASH.md",
+      "bytes": 11121,
+      "sha256": "64b56bd2a08ed933f85b6f499ec7a48d2366a281a777d5f0f0e32c3f8dafb3b1"
+    },
+    {
+      "path": "LEVITICUS/014-ONE-BIRD-DIES-ONE-FLIES-SHAVE-TWICE-EMPTY-HOUSE-FIRST.md",
+      "bytes": 11371,
+      "sha256": "ad3a22e22aec230ac22edca0d94b94005fa29d299e6af0de5f7f12f91fe9ed82"
+    },
+    {
+      "path": "LEVITICUS/015-BED-SEAT-SADDLE-SPIT-CLAY-BREAK-WOOD-RINSE-EVENING.md",
+      "bytes": 9630,
+      "sha256": "30cda66c2d9749dc8ca6dff8c247640b0eb1f04fb5e7f11ec08d2fa343def454"
+    },
+    {
+      "path": "LEVITICUS/016-NOT-ANY-TIME-CLOUD-TWO-GOATS-ONE-GOES-AWAY.md",
+      "bytes": 7581,
+      "sha256": "90c15de3a07abf5e4772053eec03396789427aeb712dcb602db6788ecddf0d13"
+    },
+    {
+      "path": "LEVITICUS/017-BRING-THE-KILL-TO-THE-DOOR-LIFE-IN-THE-BLOOD-COVER-IT-WITH-DUST.md",
+      "bytes": 6919,
+      "sha256": "d334a04285e69512dd9e89acc3a10fc9893ac0eb67a9c80f73e09c320e6a92ad"
+    },
+    {
+      "path": "LEVITICUS/018-NOT-EGYPT-NOT-CANAAN-RELATIVE-MAP-LAND-VOMIT-WARNING.md",
+      "bytes": 7669,
+      "sha256": "5e8cbe34d404ec58edd40bed6267542264b2b04576b4ce0ead1d2d3a1d47cf5d"
+    },
+    {
+      "path": "LEVITICUS/019-LEAVE-THE-CORNERS-PAY-BEFORE-MORNING-JUST-WEIGHTS-LOVE-THE-FOREIGNER.md",
+      "bytes": 8945,
+      "sha256": "a250dcefb6e0b9695979bae3fba023d2521f06cca0ebe1cb86673cae24585148"
+    },
+    {
+      "path": "LEVITICUS/020-DONT-HIDE-YOUR-EYES-PENALTY-MAP-SEPARATE-CLEAN-UNCLEAN.md",
+      "bytes": 7203,
+      "sha256": "b9e8a2052be952fe65f5fe46823f1cd531a464acfb3811e306d2de3949c0e69a"
+    },
+    {
+      "path": "LEVITICUS/021-DEAD-CONTACT-EXCEPTIONS-HIGH-PRIEST-NONE-DEFECT-EAT-NOT-APPROACH.md",
+      "bytes": 7131,
+      "sha256": "60e1606e194889fc639ea867e7ee1bf84c73de92f41358f6a1ce47b8d88dea8a"
+    },
+    {
+      "path": "LEVITICUS/022-WASH-WAIT-SUNDOWN-HOUSEHOLD-FOOD-DAY-EIGHT-MOTHER-YOUNG.md",
+      "bytes": 8398,
+      "sha256": "a8520859cad799834800de9a483f7520acdb15509a442615c5b4dc88971c1d2f"
+    },
+    {
+      "path": "LEVITICUS/023-APPOINTED-TIMES-COUNT-FIFTY-LEAVE-CORNERS-LIVE-IN-BOOTHS.md",
+      "bytes": 9305,
+      "sha256": "3836c63c7e470505d92ecb07c03bdf8ee4f916e5378b80bd0ab1cae89a7e8331"
+    },
+    {
+      "path": "LEVITICUS/024-CONTINUAL-LAMP-NIGHT-SHIFT-TWELVE-CAKES-CUSTODY-THEN-STONES.md",
+      "bytes": 8165,
+      "sha256": "40cc75eef333e69c7c4ac46204e7b451e90ec94a83b0f2cf7ba56e43d3f542f5"
+    },
+    {
+      "path": "LEVITICUS/025-LAND-REST-COUNT-FIFTY-LIBERTY-FOR-ALL-EXCEPT-FOREVER.md",
+      "bytes": 10511,
+      "sha256": "a93bdf405bde0bed0803bbfb1035b7352e4d1a31ec8df9949ce688a58b1169a8"
+    },
+    {
+      "path": "LEVITICUS/026-DO-THE-RULES-GET-RAIN-DONT-KEEP-LISTENING-SEVEN-TIMES-MORE.md",
+      "bytes": 9784,
+      "sha256": "2219f258f699a0ec3c17e07957a7c443539a19ed88dcd0e00c214c52395993c0"
+    },
+    {
+      "path": "LEVITICUS/027-FIFTY-THIRTY-ADD-A-FIFTH-DONT-SWAP-OR-BOTH-ARE-HOLY.md",
+      "bytes": 8860,
+      "sha256": "d9ce63b5a5e658e4784dea017e074aadda3d335370d1d32bf947bed5c87410ed"
+    },
+    {
+      "path": "NUMBERS/001-COUNT-EVERY-WAR-JOE-EXCEPT-THE-TABERNACLE-JOES.md",
+      "bytes": 8343,
+      "sha256": "6a115d2b2bb338c52fce68c5d47d8b0e23394ac9a0aca3307eed270eb42ded2a"
+    },
+    {
+      "path": "NUMBERS/002-EAST-FIRST-SOUTH-SECOND-TENT-MIDDLE-WEST-THIRD-NORTH-LAST.md",
+      "bytes": 7121,
+      "sha256": "6786f3bb2a4353e7fe91cfe2563dcc54a798b70da9f0585a5db39e1ea299c246"
+    },
+    {
+      "path": "NUMBERS/003-COUNT-22300-ROUND-TO-22000-CHARGE-THE-EXTRA-273.md",
+      "bytes": 8559,
+      "sha256": "607cfc007f5cce8438b208c1aa527298fc6e7b1eab6b897d842ecb064cdd16cc"
+    },
+    {
+      "path": "NUMBERS/004-COVER-IT-FIRST-CARRY-IT-DONT-TOUCH-DONT-EVEN-LOOK.md",
+      "bytes": 6886,
+      "sha256": "0426d4abde35557eb3d31afcb677de6236279488c6587a34d81ec46971cc60c8"
+    },
+    {
+      "path": "NUMBERS/005-PUT-THEM-OUT-PAY-BACK-PLUS-A-FIFTH-DRINK-THE-WRITTEN-CURSE.md",
+      "bytes": 7201,
+      "sha256": "9172819ecaa4ded123928d82db2b9b5f2b402242e47392d76bec18814a2277d0"
+    },
+    {
+      "path": "NUMBERS/006-NO-GRAPES-NO-HAIRCUT-SOMEONE-DIES-BESIDE-YOU-START-OVER.md",
+      "bytes": 7052,
+      "sha256": "36b66f1abd4a7797c4b42c6b33abdec2ed1ad653d98239125abf3b334f938f4d"
+    },
+    {
+      "path": "NUMBERS/007-SIX-WAGONS-TWELVE-OXEN-TWELVE-DAYS-ON-ONE-DAY.md",
+      "bytes": 7952,
+      "sha256": "8a46bc55a87fb88e410b3e0636807777d95cdb9188f62c4251394a526b1600a2"
+    },
+    {
+      "path": "NUMBERS/008-LIGHT-FORWARD-SHAVE-EVERYTHING-START-WORK-AT-30-START-AT-25.md",
+      "bytes": 6716,
+      "sha256": "b4e75cc8228735fb13bf1c82eed3513c798f357757df2d5388771340efc47dd6"
+    },
+    {
+      "path": "NUMBERS/009-DEAD-BODY-NEXT-MONTH-CLOUD-UP-MOVE-CLOUD-DOWN-STAY.md",
+      "bytes": 6809,
+      "sha256": "5acef919563f4c25e7e1f2bdcdf92d911d43cd6e2cb6b49ee7d96bcce2839ab0"
+    },
+    {
+      "path": "NUMBERS/010-TWO-TRUMPETS-DEUEL-AGAIN-SANCTUARY-MIDDLE-ARK-THREE-DAYS-AHEAD.md",
+      "bytes": 8310,
+      "sha256": "c1bf88587b909acdf88c3eeeadc5db0f61d244c3f61ddd5ca6b934a4b663e8b1"
+    },
+    {
+      "path": "NUMBERS/011-WANT-MEAT-HERES-A-MONTH-MEAT-IN-TEETH-PLAGUE.md",
+      "bytes": 9009,
+      "sha256": "5ecde735de105308386375269e83f3427dbf3e55e2da525965ebc97aa5e4a99d"
+    },
+    {
+      "path": "NUMBERS/012-WE-BOTH-SAID-IT-SHE-GOT-SEVEN-DAYS-OUTSIDE.md",
+      "bytes": 6441,
+      "sha256": "25daabfb3a970b332ea068b1aa332dbf89fdcdf4866f470e00e73b3b005519fe"
+    },
+    {
+      "path": "NUMBERS/013-WE-FELT-LIKE-GRASSHOPPERS-SO-THEY-SAW-GRASSHOPPERS.md",
+      "bytes": 7702,
+      "sha256": "657c9890f7f4250c792890573512bd789a0aa09ef00992bb57ffebd42c246550"
+    },
+    {
+      "path": "NUMBERS/014-PARDONED-NOW-DIE-HERE-WE-SINNED-NOW-WE-DISOBEY.md",
+      "bytes": 8465,
+      "sha256": "873af1c6b1dc85308a678390142eea7162a4d0ab229738016df37fa3322eef7a"
+    },
+    {
+      "path": "NUMBERS/015-ONE-LAW-ONE-STICK-JOE-WAIT-FOR-THE-CASE-DECISION.md",
+      "bytes": 7599,
+      "sha256": "fc6f68cb31de30e3a4f4a7a3ee4e3b1047cf55baf311a97734ca92dd23eaf511"
+    },
+    {
+      "path": "NUMBERS/016-EVERYONE-IS-HOLY-SELECT-THE-HOLY-ONE-GOD-KILLED-THEM-YOU-KILLED-THEM.md",
+      "bytes": 10664,
+      "sha256": "151660e1962e61bb0a31a6286ed5ea4c2e3f2101f27d9928507d7a5a64942fde"
+    },
+    {
+      "path": "NUMBERS/017-EVERYONE-WHO-APPROACHES-DIES-MOSES-JUST-CAME-BACK.md",
+      "bytes": 6542,
+      "sha256": "8866aec769a3872a7b5737975188df2c85b3a990edf817231d7346cf222f22e1"
+    },
+    {
+      "path": "NUMBERS/018-NO-LAND-TAKE-THE-TITHE-TITHE-THE-TITHE.md",
+      "bytes": 7775,
+      "sha256": "057bf26f902923cd48f1982d8bd4987dae6a2a693db023f68929c610f7aa9222"
+    },
+    {
+      "path": "NUMBERS/019-CLEAN-JOE-CLEANS-UNCLEAN-JOE-CLEAN-JOE-IS-NOW-UNCLEAN.md",
+      "bytes": 7490,
+      "sha256": "c77a70f34a0423572bec60142e35928c149c2997d548d1b76cb8b158292baa5c"
+    },
+    {
+      "path": "NUMBERS/020-SPEAK-TO-THE-ROCK-HIT-IT-TWICE-WATER-STILL-COMES-YOU-CANT-GO-IN.md",
+      "bytes": 7859,
+      "sha256": "913ce90bbdfcfb3a69eb27b52181666844bc04a5b69ee873a6cf739d712ce9ca"
+    },
+    {
+      "path": "NUMBERS/021-SNAKES-BITE-LOOK-AT-THE-BRONZE-SNAKE-LIVE.md",
+      "bytes": 8260,
+      "sha256": "2a442a12538790833df557fc9fa5e0a2cbc40102accb1b3121ee76cbf5deee70"
+    },
+    {
+      "path": "NUMBERS/022-GO-WITH-THEM-ANGRY-BECAUSE-YOU-WENT-THE-DONKEY-SAVED-YOU.md",
+      "bytes": 9084,
+      "sha256": "da619a659ba6bcceb5828353e946c2e79e486566fd21dd8dca407ade4a411434"
+    },
+    {
+      "path": "NUMBERS/023-HIRED-TO-CURSE-BLESSED-TWICE-DONT-CURSE-TRY-AGAIN.md",
+      "bytes": 7260,
+      "sha256": "1805ce0209b166292581bc65f0b68456d94d5e3fd3eb5fa0e3f04dd0a9a61df4"
+    },
+    {
+      "path": "NUMBERS/024-THIRD-CURSE-ATTEMPT-THIRD-BLESSING-I-WITHHELD-IT-GOD-DID.md",
+      "bytes": 7675,
+      "sha256": "883d18dfb2f0f92459ec62619e66a6f652d394ecc06730c2cfab6cebb8eb41a7"
+    },
+    {
+      "path": "NUMBERS/025-SPEAR-TWO-PEOPLE-RECEIVE-THE-COVENANT-OF-PEACE.md",
+      "bytes": 6859,
+      "sha256": "bc2a2690e407761ac9756a65848e7a18449aed0a8678b416facc10ad6fa9a060"
+    },
+    {
+      "path": "NUMBERS/026-601730-COUNTED-23000-LEVITES-NONE-OF-THE-OLD-COUNT-EXCEPT-TWO.md",
+      "bytes": 8522,
+      "sha256": "3f0bc6d2d44a3fd47851d3d84b71feb4c2bf2fbe76f8e8aa98b28eb9a143f09d"
+    },
+    {
+      "path": "NUMBERS/027-NO-SON-DAUGHTERS-INHERIT-MOSES-WILL-DIE-JOSHUA-COMMISSIONED.md",
+      "bytes": 7170,
+      "sha256": "1891ecf5d7584574bc521bd9f271a9fd283cf586c4668f1167340c4236489a04"
+    },
+    {
+      "path": "NUMBERS/028-TWO-EVERY-DAY-ADD-SABBATH-ADD-MONTH-ADD-FEAST.md",
+      "bytes": 6916,
+      "sha256": "08951b5c80f18cf1cfa6556d3c2c3a7d041ff0ba165a66d15cafa13dae036db8"
+    },
+    {
+      "path": "NUMBERS/029-TRUMPETS-AFFLICT-YOUR-SOULS-THIRTEEN-BULLS-COUNT-DOWN.md",
+      "bytes": 6743,
+      "sha256": "3287b3c8b160b159f4a5be9c5ebd22ce311e08c1a4a51fdf389a8dcb6cab3cb2"
+    },
+    {
+      "path": "NUMBERS/030-SAY-NOTHING-IT-STANDS-DISALLOW-TODAY-OR-BEAR-IT.md",
+      "bytes": 6305,
+      "sha256": "d5a18742e3e6812c1235951026c58664a4709979427ee1900ea68df0948ac014"
+    },
+    {
+      "path": "NUMBERS/031-EVERY-MALE-KILLED-NOW-KILL-THE-MALE-CHILDREN.md",
+      "bytes": 8804,
+      "sha256": "6470a433e8c0e0deefb189e332fc1af492b40d3200ade9c8ede0125304926e96"
+    },
+    {
+      "path": "NUMBERS/032-CROSS-FIRST-GET-THE-LAND-LAND-GIVEN-BEFORE-CROSSING.md",
+      "bytes": 8164,
+      "sha256": "6ede6386556fbac646a15e5fc47fd83d2b7c9092efb536526b72b702c8495cf3"
+    },
+    {
+      "path": "NUMBERS/033-MOSES-WROTE-EVERY-STOP-AARON-DIED-AGE-123.md",
+      "bytes": 6959,
+      "sha256": "92c301f922ff27f84a8086a4dfdff990a5298bf5424d1bac8bf20ccd42107a74"
+    },
+    {
+      "path": "NUMBERS/034-DRAW-FOUR-BORDERS-TEN-PRINCES-DIVIDE-NOTHING-YET.md",
+      "bytes": 6407,
+      "sha256": "fd8b6745e25c0f79fb615fa336f507f7dbbd976cd735f7a24f6271b2d8daab4b"
+    },
+    {
+      "path": "NUMBERS/035-FORTY-EIGHT-CITIES-SIX-REFUGES-ONE-WITNESS-NOT-ENOUGH.md",
+      "bytes": 8106,
+      "sha256": "f715e7e01acb219c3dd435cc77adc9bffc916d69e81f2d271ad040c70c380faa"
+    },
+    {
+      "path": "NUMBERS/036-MARRY-WHO-YOU-THINK-BEST-INSIDE-THE-TRIBE.md",
+      "bytes": 5723,
+      "sha256": "49ce99f9ef7bfd6ac72ccee05482e17e6e86eb39255ec07130b5752726563f75"
+    },
+    {
+      "path": "RUTH/001-NOT-NAOMI-THE-LORDS-HAND-WENT-AGAINST-ME-I-CAME-BACK-EMPTY-RUTH-IS-STANDING-THERE-RUTH-RETURNED-WHERE-SHE-HAD-NEVER-BEEN.md",
+      "bytes": 9508,
+      "sha256": "8eb8d5a7dd73978b1bfe65a4d8d02f040c84f652210225030a312e101e635dfb"
+    },
+    {
+      "path": "RUTH/002-NOT-RUTH-CAME-BACK-TO-PEOPLE-SHE-DIDNT-KNOW-BOAZ-DID-THE-WORK-LORD-GOT-THE-KINDNESS-CREDIT-STAY-WITH-MAIDENS-BECOMES-YOUNG-MEN.md",
+      "bytes": 9835,
+      "sha256": "e6b8d5e418032040315d8831c6492771c173c28e4916d5e8b87e13351df4aba3"
+    },
+    {
+      "path": "RUTH/003-NOT-NAOMI-HE-WILL-TELL-YOU-WHAT-TO-DO-RUTH-TELLS-HIM-WHAT-TO-DO-NOT-RUTH-HE-SAID-DONT-GO-EMPTY-HE-DIDNT-SAY-THAT.md",
+      "bytes": 9184,
+      "sha256": "fdd5db76a0aaef956b68dcfe15099f0e4fbc8ce0b92b139c219b5e25a7cff38f"
+    },
+    {
+      "path": "RUTH/004-NOT-RUTH-BORE-A-SON-THE-WOMEN-SAID-A-SON-WAS-BORN-TO-NOT-NAOMI.md",
+      "bytes": 10143,
+      "sha256": "fa2ba5af29091c653a45bd2a851220e0e5ec3ae6dd426f91b27f20c8c22f2800"
+    }
+  ]
+}
