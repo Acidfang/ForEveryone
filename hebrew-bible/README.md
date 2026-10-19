@@ -14,7 +14,7 @@ python -m pip install git+https://github.com/Acidfang/LanguageByField.git@0c2587
 python translate.py --request your-request.json --output renderings.json
 ```
 
-Without --ai this resolves exact existing ledger entries only. A missing entry stays unknown. Bit encoding alone does not supply a natural-language translation.
+Without --ai this resolves exact existing ledger entries only. A missing entry stays unknown. The current engine does not yet implement internal derivation of missing source-to-target relations.
 
 Optional generation uses the existing engine provider. Configure your API key locally, never in this website or repository. Select a provider model through OPENAI_MODEL or --model. Explicitly authorize generation for that run:
 
