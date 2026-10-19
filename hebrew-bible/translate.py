@@ -26,6 +26,8 @@ def select_request(payload,data,scope='request'):
     template=payload.get('template')
     if not isinstance(template,dict) or not isinstance(template.get('id'),str) or not isinstance(template.get('instructions'),str) or not template['instructions'].strip() or len(template['instructions'])>6000: raise ValueError('Select a bounded translation template')
     if payload.get('templateAddress')!=cid(template): raise ValueError('Selected template identity mismatch')
+    if scope=='request': scope=payload.get('scope','request')
+    if scope not in ('request','book','corpus'): raise ValueError('Unknown translation scope')
     selected=payload.get('chapter',{})
     chapters=[]
     for book in data['books']:

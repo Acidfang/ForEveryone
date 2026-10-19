@@ -42,3 +42,6 @@ The retained Hebrew corpus has 39 book groupings, 929 chapters and 23,213 verse 
 JSON uses HEBREW-VERSE-RENDERINGS/1, the exact sourceRoot, and addressed records with sourceAddress, language, template, templateAddress, text and provenance. Generated records retain CANDIDATE. Manual assertions remain USER_PROVIDED. Calling an imported record verified does not make it verified.
 
 Local renderings stay in browser storage until exported. Import is an explicit local act. Export does not publish your records. The source carrier is compressed only for delivery and verified after decompression. No private project files, keys or conversation records belong in this release.
+
+## Full-Bible export
+Choose Translation scope: Full Bible to export a request for all 929 chapters. The script honours that scope by default; --ai is still required for provider generation. After importing results, use Export full Bible text or JSON. Both cover all 39 books and 23,213 verse occurrences in the selected language/template, preserve candidate/reference status and mark missing verses UNTRANSLATED. A partial export is named partial; exporting does not generate missing text. JSON also retains source addresses, provenance and alternative records.
