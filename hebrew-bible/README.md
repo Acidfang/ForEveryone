@@ -45,3 +45,5 @@ Local renderings stay in browser storage until exported. Import is an explicit l
 
 ## Full-Bible export
 Choose Translation scope: Full Bible to export a request for all 929 chapters. The script honours that scope by default; --ai is still required for provider generation. After importing results, use Export full Bible text or JSON. Both cover all 39 books and 23,213 verse occurrences in the selected language/template, preserve candidate/reference status and mark missing verses UNTRANSLATED. A partial export is named partial; exporting does not generate missing text. JSON also retains source addresses, provenance and alternative records.
+
+Full reading edition: Download full Bible produces a self-contained HTML book with all chapters, a contents list, language direction support, status labels and untranslated gaps. Open it offline and choose Print / Save as PDF. The PDF / print control opens this same full edition directly; use the browser Save as PDF destination. It does not print only the selected chapter and does not call a translation provider.
