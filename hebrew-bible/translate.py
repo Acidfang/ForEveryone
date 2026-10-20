@@ -4,7 +4,7 @@ from __future__ import annotations
 import argparse, gzip, hashlib, json, re, sys
 from datetime import datetime, timezone
 from pathlib import Path
-READER_SHA='c3a4b8e795cd7442f3e57641b94a3a3eac0fee9f09c680e6d4e3f3b8a23da7d1'
+READER_SHA='0a07e1124e621efdeb9b475f41173700fced622e81b06bff980cae2732acf985'
 REQUEST_PROTOCOL='HEBREW-TEMPLATE-TRANSLATION-REQUEST/1'
 OUTPUT_PROTOCOL='HEBREW-VERSE-RENDERINGS/1'
 

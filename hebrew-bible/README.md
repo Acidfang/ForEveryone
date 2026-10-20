@@ -1,6 +1,6 @@
 # Hebrew Bible · Ledger Reader
 
-Open this page through the existing For Everyone GitHub Pages site. It checks the exact retained reader carrier identity before reading any verse. Hebrew remains unchanged; English WEB is a reference translation, not a newly generated result.
+Open this page through the existing For Everyone GitHub Pages site. It checks the exact retained reader carrier identity before reading any verse. Hebrew remains unchanged; English WEB is shown through source-linked passage references, not newly generated or certified verse translations.
 
 ## Translate from a selected template
 
@@ -35,7 +35,7 @@ Source bytes and the full selected template are part of the existing engine requ
 - [World English Bible rights](https://ebible.org/engwebp/copyright.htm)
 - [Canonical WHY Translate engine](https://github.com/Acidfang/LanguageByField)
 
-The retained Hebrew corpus has 39 book groupings, 929 chapters and 23,213 verse occurrences. The English alignment lacks matches at 202 Hebrew verse entries. Witness-numbering differences are not automatically repaired. Hebrew transcription and WEB text are public domain; OSHB morphology is CC BY 4.0. Source identities are shown in the page.
+The retained Hebrew corpus has 39 book groupings, 929 chapters and 23,213 verse occurrences. The previous same-number English join was incorrect at differing witness boundaries. The current reference projection uses the retained OSHB VerseMap.xml WLC-to-KJV numbering catalogue and hash-verified WEB verse/prefix segments. All 1,978 map relations are retained: 1,971 full and seven partial. There are 23,069 source occurrences with source-linked passage references and 144 occurrences in 70 unresolved groups; these counts do not certify translation equivalence. Split and cross-chapter passages retain their actual source references. Colliding numbering and unassigned Psalm heading boundaries remain unresolved rather than guessing a verse pairing. Hebrew transcription and WEB text are public domain; OSHB morphology is CC BY 4.0. Source identities are shown in the page.
 
 ## Rendering ledger
 
@@ -47,3 +47,12 @@ Local renderings stay in browser storage until exported. Import is an explicit l
 Choose Translation scope: Full Bible to export a request for all 929 chapters. The script honours that scope by default; --ai is still required for provider generation. After importing results, use Export full Bible text or JSON. Both cover all 39 books and 23,213 verse occurrences in the selected language/template, preserve candidate/reference status and mark missing verses UNTRANSLATED. A partial export is named partial; exporting does not generate missing text. JSON also retains source addresses, provenance and alternative records.
 
 Full reading edition: Download full Bible produces a self-contained HTML book with all chapters, a contents list, language direction support, status labels and untranslated gaps. Open it offline and choose Print / Save as PDF. The PDF / print control opens this same full edition directly; use the browser Save as PDF destination. It does not print only the selected chapter and does not call a translation provider.
+
+
+## Reference passage alignment
+
+The reader asset retains Hebrew bytes, verse identities and corpus root unchanged. English passage text is stored once per group; member verses refer to that group. Full JSON exports include the group table and source references; text, reading HTML and PDF/print render each supported passage once. A passage reference does not count as an individual verse translation. Candidate/manual renderings still take precedence only for their exact language/template identities.
+
+Map source: existing OSHB v2.2 archive, `OSHB-v.2.2/VerseMap.xml`, SHA256 `6cd269ca3dccef2cb944b9d9dd8afc950f929dab53a534f1268d23affa983163`. It is a WLC-to-KJV numbering catalogue; WEB source markers are checked separately. `partial` relations are represented at connected passage grain without claiming clause-level equivalence. The four duplicate full Psalm targets and other colliding defaults remain unresolved. The 202 old missing-marker count was not a measure of correct alignment. Internal source-to-meaning-to-target generation is still absent.
+
+One retained WEB marker, Nehemiah 7:68, has no selected WLC relation in this catalogue projection. Its exact source reference is retained under unassignedWEBRefs; it is not silently assigned to a neighbouring Hebrew verse.
