@@ -2,8 +2,8 @@
   "input": "C:\\Users\\joera\\OneDrive\\Documents\\For Everyone\\work\\darts-stats-20261006\\shell-display-preview.html",
   "sourceSHA": "ae3b5c5217e73f5d4dcc43bd8b91992c4c6ff4a1d2dd985bc0ea066b18581d68",
   "output": "C:\\Users\\joera\\OneDrive\\Documents\\For Everyone\\work\\darts-stats-20261006\\shell-display-preview.html",
-  "sha256": "bcb430714844c56efd586b941d732c0876c93fa56e6b4826eb4fa1e9d773c7b9",
-  "viewer": "362d2eb70b6e3844f54eb348468ab8fb8fe3787cd9750e87bd93519040c897dc",
+  "sha256": "e8027eedbcc5360beba3ad8c37009e91928b0500f648fbf5dd810091c41433eb",
+  "viewer": "7d922c151050d408dd972542a2e8df41e4d555a6ccc52ca933b537755e4f1235",
   "modules": {
     "x01-rules": "9825f135c664ffcef64f6bfd0b37e75c7d6bcb7e1d4021c2b31fd083cb116a51",
     "metric-shells": "d44bc07e3b823ed02db48b362fbed83018714f477e3afcc5ca5d946a5a37800a",
@@ -110,7 +110,7 @@
     "script/40": "f5783fcdeda6ef0c6e2a73c2c97042a5d539cd03ab4677b5aa0cf06c57848270",
     "script/41": "074b4f41e5e9c36ce7bf12bc557778ad0b23eee4ae1c401d2a1d20c12474ebd1",
     "script/42": "943e0b0a4e7fb045fbca14f280a128771ee994b0742dc206f3998b6533f36ad3",
-    "script/43": "71a7814e71ea7112a7b9fe56b8415e886922ef1fefd7bf56e8139f4af8f5575b",
+    "script/43": "f6daae0208dc12954175f635f2c19150a82f1c615db80dc2e559962b67ceb1e3",
     "script/44": "9ee7719c582c4ea6bc626ec62f8063e4ec99fdce82e2e15778a5aceab6cf74a8",
     "script/45": "37c3da1d086b1f939a31e81cb572b38512ec3f0482943f3a2c0b97dacc932ec1"
   },
@@ -255,7 +255,7 @@
     "relation": "Retain original selected surface grain/filter/return address, restore on close; no source-event deduplication",
     "verification": "44 scripts parse; actual repeated-cycle affected check pending"
   },
-  "viewerVersion": "362d2eb70b6e3844f54eb348468ab8fb8fe3787cd9750e87bd93519040c897dc",
+  "viewerVersion": "7d922c151050d408dd972542a2e8df41e4d555a6ccc52ca933b537755e4f1235",
   "builtAt": "2026-10-24T08:17:54.327Z",
   "moduleBindings": {
     "draft-score-accessors": {

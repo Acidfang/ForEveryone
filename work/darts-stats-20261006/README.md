@@ -4,7 +4,7 @@ This directory contains the scoring app's actual source, scoring database, nativ
 
 ## Current installed result
 
-Installed source SHA256: `bcb430714844c56efd586b941d732c0876c93fa56e6b4826eb4fa1e9d773c7b9`.
+Installed source SHA256: `e8027eedbcc5360beba3ad8c37009e91928b0500f648fbf5dd810091c41433eb`.
 
 The movement and historical-reference repairs are installed in the running application:
 
@@ -56,3 +56,5 @@ Joe explicitly selected publication of the six scoring-source files to public Ac
 | full-export/native-record-ledger.json | caee72a2e98b27a201c49cc8d41e9ab9208c6e89fa57ce970ec3a6ecc7e9ebb3 |
 | player-ledgers/events.json | fa5a9fa076b8671777d5b845122473d4418c0bd66afa991f16ecf3a8db950db8 |
 | preview-state.json | daeed15b29f05a5858efac5f131efac69648313dd9d0c5ff3b41c771d3fa181f |
+
+The final predecessor-presence guard was admitted through the existing updater in the same running document, clock and view. It leaves an incomplete prior paint unresolved instead of dereferencing absent proof. The approved scoring files, source identities and project history are published together; see their native paths and SHA256 bindings above.
