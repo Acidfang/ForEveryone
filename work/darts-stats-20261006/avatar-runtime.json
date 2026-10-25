@@ -1,0 +1,17 @@
+{
+  "schema": "avatar-runtime/v1",
+  "services": {
+    "avatar": {
+      "host": "192.168.1.93",
+      "port": 8794,
+      "entry": "C:\\Users\\joera\\OneDrive\\Documents\\For Everyone\\work\\darts-stats-20261006\\serve-avatar-shared.cjs"
+    },
+    "mechanism": {
+      "host": "127.0.0.1",
+      "port": 4317,
+      "entry": "C:/Users/joera/OneDrive/Documents/Music/Digital Control Act/server.mjs"
+    }
+  },
+  "sharedState": "C:\\Users\\joera\\OneDrive\\Documents\\For Everyone\\.dca-state\\fracture-map-owner-20261004\\map-controls.json",
+  "collisionPolicy": "Reuse matching service; refuse unrelated owner; replace only explicitly selected verified previous service process"
+}
