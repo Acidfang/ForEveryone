@@ -1,0 +1,53 @@
+{
+  "address": "preview/first-frame",
+  "source": "fresh-tablet.sqlite",
+  "filters": [
+    "game",
+    "player",
+    "starting-points"
+  ],
+  "scope": "all-time",
+  "frames": {
+    "matches": {
+      "address": "preview/first-frame/matches",
+      "enabled": true
+    },
+    "legs": {
+      "address": "preview/first-frame/legs",
+      "enabled": true
+    },
+    "checkouts": {
+      "address": "preview/first-frame/checkouts",
+      "enabled": true
+    },
+    "scoring": {
+      "address": "preview/first-frame/scoring",
+      "enabled": true
+    },
+    "efficiency": {
+      "address": "preview/first-frame/efficiency",
+      "enabled": true
+    },
+    "phases": {
+      "address": "preview/first-frame/phases",
+      "enabled": true
+    }
+  },
+  "changes": [
+    "Game → Player → Starting points; lists ordered by occurrence",
+    "First frame uses app lifetime totals; later filters stay outside it",
+    "Outcome and checkout rings; scoring ring uses a 0–180 scale",
+    "Winning-leg darts and points-cleared efficiency",
+    "Each section opens its own surviving-history graph",
+    "State-addressed rendering; intended-target accuracy remains unknown",
+    "Team games are a separate player option; shared scores never enter individual totals",
+    "Standalone preview auto-refreshes on build changes and returns selected address receipts",
+    "Scores per game: exact ordered visit records, grouped by game then leg; missing sequences remain visible",
+    "Player throw numbers within each leg; plain singles/D/T/Bull notation; conditional scoring and double-out finish candidates",
+    "Derived player checkout-route candidates from actual retained finishing scores and dart counts; preference remains unresolved"
+  ],
+  "ui": {
+    "playerSelectionLabel": "Select players",
+    "progress": "Debug mode isolates test captures · Viewer identity is shown in each frame"
+  }
+}
